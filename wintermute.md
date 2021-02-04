@@ -117,11 +117,13 @@ Wintermute offers institutional OTC desks and aggregators competitive tailor-mad
 Wintermute was also an official market maker of some of the most prominent projects that got listed in 2020 helping them achieve liquidity across most exchanges, pairs and liquidity pools.
 
 <br>
+
 ## Strategic opportunity for Wintermute in China and how Sino will help
 
 Wintermute is seeking to expand its Asia exposure to better serve counterparties with a variety demands. China is a major crypto market with a lack of sophisticated market makers. Sino will connect Wintermute with their Chinese audience as a bridge between East and West.
 
 <br>
+
 ## Conclusion
 
 Despite being a crypto focused firm, Wintermute has the security and technology capabilities of a large traditional MM, as well as the HFT experience to execute. Combined this with an aggressive and ongoing expansion plan, including into DeFi, and we believe they have an edge on both current crypto MMs operating in the space as well as any bigger traditional MMs who may enter in the future. As the market grows, we expect Wintermute to become one of the largest liquidity providers in the industry.
