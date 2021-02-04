@@ -21,7 +21,7 @@ By providing both sides of the market (making the market) for an asset, MMs ensu
 
 By offering both bid and ask in a stable market, MMs quickly profit from bid-ask discrepancy, however, when markets trend and there is high volatility, the risks and rewards increase and sophisticated MMs employ a range of strategies to maximize profit.
 
-<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/spread.png" alt="spread" width="500px">
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/spread.png" alt="spread" width="800px">
 
 > Image source: Wintermute.
 
@@ -37,7 +37,7 @@ BTC on the other hand, usually has a spread of 3–5 bps, meaning crypto MMs can
 
 Note the spike during the March 13 crash. Under normal conditions most exchanges would rarely exceed a spread of 0.2%, with more established exchanges like Coinbase averaging between 0.02–0.04%.
 
-<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/btc-spread.png" alt="btc-spread" width="500px">
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/btc-spread.png" alt="btc-spread" width="800px">
 
 There are many popular strategies that MMs employ to make money. Examples include:
 
@@ -80,7 +80,7 @@ While the number of crypto exchanges continues to increase, there is a shortage 
 
 So how big is this market? For reference, the total notional monthly volume for equities on the NYSE and NASDAQ for September 2020 was approximately $8.7 trillion, with an average of $7.9 trillion per month for 2020.
 
-<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/equities.png" alt="equities" width="500px">
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/equities.png" alt="equities" width="800px">
 
 > Massive traditional equities markets
 
@@ -90,7 +90,7 @@ Estimating reliable crypto market volume is often difficult due to the prevalenc
 
 The Block Legitimate Volume Index for September 2020 was over $169 billion (~2% of the $8.7 trillion volume in US equities for September above).
 
-<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/legitimate-volume-index.png" alt="legitimate-volume-index" width="500px">
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/images/wintermute/legitimate-volume-index.png" alt="legitimate-volume-index" width="800px">
 
 For MM revenues; using the <a href="https://ftx.com/volume-monitor" target="_blank">FTX Volume Monitor</a>, Wintermute estimates that for the centralized spot and derivatives markets, at a conservative ~$35B daily volume (which matches up with the lower volume months on The Block index) and assuming:
 - 90% coverage of CEX
