@@ -3,11 +3,11 @@
 Not investment advice
 
 <br>
-##Introduction
+## Introduction
 
 Wintermute is a crypto market maker based in London. They are a proprietary trading firm and do not manage crypto or fiat funds on behalf of investors or customers. Before digging into WM, let’s first look at why market makers are so important in the crypto industry.
 
-##What is a market maker?
+## What is a market maker?
 
 The goal of most crypto projects is to grow large enough (in users, adoption, value and functionality) to become a self-sustaining, autonomous economic ecosystem. Like any economic ecosystem, value drives crypto ecosystems; usually in the form of project native tokens. In order for any crypto-system to flourish, value must circulate smoothly throughout. This would not be possible without crypto exchanges and market makers.
 
@@ -26,7 +26,7 @@ By offering both bid and ask in a stable market, MMs quickly profit from bid-ask
 
 <br>
 
-##How market makers make money
+## How market makers make money
 
 A market maker's primary role is to create a healthy and active market for both buyers and sellers by placing multiple limit orders, on both sides of the market for an asset, in the orderbook of an exchange. These orders will consist of a price and quantity, e.g. Bid: $31,000.47 x 900, Ask: $31,000.50 x 1000. Buyers and sellers fill these trades and a MM profits off the difference.
 
@@ -48,7 +48,7 @@ There are many popular strategies that MMs employ to make money. Examples includ
 
 <br>
 
-##Crypto vs Traditional MM
+## Crypto vs Traditional MM
 
 In traditional securities markets such as equities, regulatory barriers prevent individuals and small firms from filling the market maker role. Furthermore, competitive barriers like co-location; locating HFT servers physically close to exchange servers for lower latency, also limit access for small firms.
 
@@ -56,7 +56,7 @@ In crypto, individuals and firms have direct access to same exchanges, APIs and 
 
 Big names in traditional HFT MM include Citadel Securities, Jump Trading, Hudson River, Optiver etc. These are not crypto focused, and those that have recently entered the market lack the idiosyncratic knowledge of crypto, e.g. different APIs, relationships, intricacies of DeFi etc.)
 
-##Crypto MM (Orderbook) vs AMM
+## Crypto MM (Orderbook) vs AMM
 
 DEXs offered a solution to some issues with CEXs like counterparty risk and high fees, however the lack of liquidity on these exchanges ushered in the automated market maker (AMM).
 
@@ -64,7 +64,7 @@ AMMs allow users to seamlessly swap tokens in a completely decentralized and non
 
 Slippage is a major concern for AMMs. For instance, if an order is placed that is greater than half of the liquidity pool, the token price would skyrocket. Such massive slippage would never be acceptable in order book exchanges. This risk means sophisticated investors with complex trading strategies and large order sizes will be drawn to toward deep orderbooks.
 
-##Why Wintermute?
+## Why Wintermute?
 
 Wintermute (<a href="https://www.wintermute.com/" target="_blank">wintermute.com</a>) is“The algorithmic liquidity platform for digital assets”
 Wintermute was founded in July 2017 and is led by Evgeny Gaevoy (<a href="https://twitter.com/EvgenyGaevoy" target="_blank">@EvgenyGaevoy</a>) with most of its management team coming from trading and technology at Optiver and other top tier proprietary trading firms, while being complemented by DeFi experts (head of DeFi is from Argent).
@@ -116,12 +116,12 @@ Wintermute offers institutional OTC desks and aggregators competitive tailor-mad
 Wintermute was also an official market maker of some of the most prominent projects that got listed in 2020 helping them achieve liquidity across most exchanges, pairs and liquidity pools.
 
 <br>
-##Strategic opportunity for Wintermute in China and how Sino will help
+## Strategic opportunity for Wintermute in China and how Sino will help
 
 Wintermute is seeking to expand its Asia exposure to better serve counterparties with a variety demands. China is a major crypto market with a lack of sophisticated market makers. Sino will connect Wintermute with their Chinese audience as a bridge between East and West.
 
 <br>
-##Conclusion
+## Conclusion
 
 Despite being a crypto focused firm, Wintermute has the security and technology capabilities of a large traditional MM, as well as the HFT experience to execute. Combined this with an aggressive and ongoing expansion plan, including into DeFi, and we believe they have an edge on both current crypto MMs operating in the space as well as any bigger traditional MMs who may enter in the future. As the market grows, we expect Wintermute to become one of the largest liquidity providers in the industry.
 
