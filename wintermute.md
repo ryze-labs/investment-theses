@@ -3,6 +3,7 @@
 Not investment advice
 
 <br>
+
 ## Introduction
 
 Wintermute is a crypto market maker based in London. They are a proprietary trading firm and do not manage crypto or fiat funds on behalf of investors or customers. Before digging into WM, let’s first look at why market makers are so important in the crypto industry.
