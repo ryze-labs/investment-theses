@@ -1,9 +1,9 @@
-#Why we invested in Maps.me
+# Why we invested in Maps.me
 
 Not financial advice.
 <br>
 
-##Introduction
+## Introduction
 
 Sino Global Capital is excited to announce our investment in MAPS.ME (https://maps.me/). In this investment thesis, we will share our thoughts on MAPS potential to bring huge traffic volume to the DeFi industry by building a DeFi ecosystem on their existing, widely used, infrastructure.
 
@@ -31,7 +31,7 @@ How will DeFi disrupt traditional mobile payments?
 
 <br>
 
-##DeFi ecosystem growth
+## DeFi ecosystem growth
 
 The DeFi ecosystem has been growing exponentially over the past year, leading to gradual evolution and maturity of product offerings, platforms and protocols. The infrastructure necessary to disrupt the traditional financial landscape is being built before our eyes. We are seeing a huge surge of interest for new DeFi protocols in various industries such as lending, insurance, derivatives, DEXes etc.
 
@@ -56,7 +56,7 @@ Despite the growth of DeFi platforms and the increase in trading and TVL of dece
 
 <br>
 
-##FinTech market
+## FinTech market
 
 When framing the growth of DeFi, it is important to look at other forces disrupting traditional finance. Fintech companies are permeating throughout finance and new start-ups are entering the space to provide more effective and efficient financial solutions.
 
@@ -76,7 +76,7 @@ If it is feasible to attract even a small fraction of Fintech users to DeFi, it 
 
 <br>
 
-##Fintech evolving
+## Fintech evolving
 
 Some numbers from the Fintech landscape:
 
@@ -101,7 +101,7 @@ This is where MAPS will be able to contribute to the onboarding of Fintech users
 
 <br>
 
-##MAPS.me
+## MAPS.me
 
 Why is MAPS important for increasing adoption of DeFi?
 
@@ -142,7 +142,7 @@ A survey of 26,000 Maps.me users conducted in April 2020 showed:
 
 <br>
 
-##Potential Risks
+## Potential Risks
 
 - Regulatory uncertainties as backend is integrated with Solana blockchain and Serum DEX.
 - Incumbent users fail to transition to DeFi if travelers ignore investment opportunities after being introduced to blockchain.
@@ -150,6 +150,6 @@ A survey of 26,000 Maps.me users conducted in April 2020 showed:
 
 <br>
 
-##Opportunity & Future Thoughts
+## Opportunity & Future Thoughts
 
 With the rise of the Maps.me wallet, users will be able to leverage an all-inclusive application serving both their travelling and financial needs. As Maps.me currently serves 140 million global users (with over 58% coming from Europe and 70% aged between 18 to 40) there is great potential for Maps to serve as a Fintech to DeFi gateway. The MAPS team has extensive financial expertise and experience from some of the world’s largest investment banks including Merrill Lynch and Goldman Sachs, as well as financial backing from Sam Bankman-Fried and FTX. We believe that MAPS, as a Fintech behemoth, will be able to boost the growth of DeFi by opening more decentralized financial products and services to both the banked and unbanked.
