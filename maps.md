@@ -135,7 +135,7 @@ A survey of 26,000 Maps.me users conducted in April 2020 showed:
 
 <img src="https://miro.medium.com/max/875/1*bkNIrzGsAg4AoS6X0Pvfbw.png" alt="survey" width="800px">
 
-- As of August 2020, Maps.me had over 140m installs, 27.3m unique users and 1.4m daily active users:
+- As of August 2020, Maps.me had over 140m installs, 1.4m daily active users as well as 27.3m unique mobile users in the previous 6 months alone:
 
 <img src="https://miro.medium.com/max/753/1*4LaICPKTD3JeXn1KE20Hiw.png" alt="survey" width="800px">
 >High number of stable users
