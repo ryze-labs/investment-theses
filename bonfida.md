@@ -26,7 +26,7 @@ It is this need for an intuitive, seamless and visually appealing UI/UX that mak
 
 Bonfida has over a very short period become the primary GUI for users to interact with Serum. The Bonfida API is used by some of the largest market makers in the space and has seen a growth in requests of 25% week over week. The Bonfida REST API serves data directly from the Serum DEX. According to the latest available stats at time of writing, Bonfida’s serum API has reached 8.7 mil requests:
 
-<img src="https://miro.medium.com/max/3000/1*b89va3qOS_2MP9KPEqqUKA.png" alt="1" width="300px">
+<img src="https://miro.medium.com/max/3000/1*b89va3qOS_2MP9KPEqqUKA.png" alt="1" width="500px">
 
 >Source:<a class="dn jn" href="https://twitter.com/bonfida/status/1338343464031948801" rel="noopener nofollow"> https://twitter.com/bonfida/status/1338343464031948801</a>
 
