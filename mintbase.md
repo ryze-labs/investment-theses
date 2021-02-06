@@ -18,6 +18,7 @@ A central tenant of Sino Global Capital’s thesis is investing in the building 
 What makes NFTs powerful are their potential to tokenize a physical asset and create a digital representation of the underlying asset. This is especially useful for illiquid assets or assets that do not represent value outside their “environment”. A clear example of illiquid assets is real estate. With the emergence of NFTs, those illiquid assets can easily be digitalized and moved around, which leads to innovative opportunities. Given that NFTs are assets, these can be borrowed or lent out as collateral, generating more cash flow. Games are another relevant example of why NFTs are powerful. Skins in Fortnite or League of Legends cannot be traded or exchanged outside the game. However, with NFTs and marketplaces, those “assets” can be exchanged for value outside their original game. With NFTs, standardization will become more obvious as it enables digital assets to move freely across various platforms, realizing interoperability and connectivity while giving ownership pack to the user.
 
 <img src="https://miro.medium.com/max/3000/1*LyQ2uIv3GUiGV9e5LtbbKA.jpeg?q=20" alt="2" width="800px">
+
 >Jordan x Fortnite. Image source: <a class="dn kj" href="https://www.youtube.com/watch?v=IdmurblgyRI" rel="noopener nofollow">Youtube</a>
 
 The recent focus on NFTs has been on tokenizing collectibles like music and art, but there’s a huge opportunity in physical items that are pegged to NFTs (event tickets, for example). Furthermore, NFTs are a natural complement to DeFi.
@@ -38,11 +39,13 @@ To focus on the building blocks of the digital economy, we had no interest in in
 We looked for a best-in-class team in the NFT ecosystem that had a long-term vision compatible with our long-term investment horizon. Then we found Mintbase (<a href='https://mintbase.io/' target='_blank'>https://mintbase.io/</a>). A marketplace that gives users the tools to exchange NFTs. What distinguishes Mintbase from other competitors is that users and participants can also mint NFTs and offers NFTs which are not frequently available on other platforms. Users can also create their own store.
 
 <img src="https://miro.medium.com/max/3000/1*goNKRy741cDHeOBtVjdodw.png?q=20" alt="3" width="800px">
+
 >Mintbase landing page. Image source: <a class="dn kj" href="https://mintbase.io/" rel="noopener nofollow">Mintbase.io</a>
 
 Furthermore, Mintbase strives to bridge content creators, artists and others with those that appreciate and value their work. Mintbase currently covers NFT segments such as music, art, services, tickets, photography and more.
 
 <img src="https://miro.medium.com/max/3000/1*6wD9rAcBh9RxHyCxmA3QXg.png?q=20" alt="4" width="800px">
+
 >Mintbase stores. Image source: <a class="dn kj" href="https://mintbase.io/" rel="noopener nofollow">Mintbase.io</a>
 
 However, we have only just begun to envision the applications of NFTs. A new trend is the financialization of NFTs, whereby the tokens have even been used to represent insurance policies. Whatever is next for NFTs, we are confident that Mintbase will be at the forefront of innovation. The founders, <a href='https://twitter.com/nategeier' target='_blank'>@Nate</a> and <a href='https://twitter.com/CarolinWend' target='_blank'>@Carolin</a>, have an amazing vision, amazing team, and we are impressed by the way they’ve build Mintbase.io on a bootstrapped budget. It is their view that NFTs function like APIs as they magnify innovation and fundamentally transforms economies. As the space matures, NFTs will play a key role in how we interact with each other online and in virtual worlds and environments. Understanding their vision, we have decided to invest to support their vision and also hope to support them with our China-centric network.
@@ -57,6 +60,7 @@ To illustrate some key highlights of Mintbase that demonstrate their results so 
 - ~76K Total Token Transfers
 
 <img src="https://miro.medium.com/max/3000/1*X-hxaBquegO6fxunEd6Srg.png?q=20" alt="5" width="800px">
+
 >Mintbase statistics. Image source: <a class="dn kj" href="https://dashboard.dappquery.com/d/0VwYLwjWk/mintbase?orgId=1&amp;from=now-5M&amp;to=now&amp;kiosk&amp;presentation_mode" rel="noopener nofollow">DAppQuery</a>
 
 Their strategic positioning as the Wix/Taobao of NFTs positions them in the center of a growing ecosystem — they maintain a valuable two-sided marketplace supporting content providers and buyers, all the while facilitating easier access for your average individual to the Web 3 revolution, something we are passionate about.
