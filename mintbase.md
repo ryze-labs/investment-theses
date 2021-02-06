@@ -11,13 +11,13 @@ A central tenant of Sino Global Capital’s thesis is investing in the building 
 <br>
 
 ## NFTs
-<img src="https://miro.medium.com/max/3000/1*I1uyZLAqJZQ__ZMkLR67Ew.png?q=20" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/1*I1uyZLAqJZQ__ZMkLR67Ew.png" alt="1" width="800px">
 
 >NFTs. Image source: <a class="dn kj" href="https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain" rel="noopener nofollow">Decrypt</a>
 
 What makes NFTs powerful are their potential to tokenize a physical asset and create a digital representation of the underlying asset. This is especially useful for illiquid assets or assets that do not represent value outside their “environment”. A clear example of illiquid assets is real estate. With the emergence of NFTs, those illiquid assets can easily be digitalized and moved around, which leads to innovative opportunities. Given that NFTs are assets, these can be borrowed or lent out as collateral, generating more cash flow. Games are another relevant example of why NFTs are powerful. Skins in Fortnite or League of Legends cannot be traded or exchanged outside the game. However, with NFTs and marketplaces, those “assets” can be exchanged for value outside their original game. With NFTs, standardization will become more obvious as it enables digital assets to move freely across various platforms, realizing interoperability and connectivity while giving ownership pack to the user.
 
-<img src="https://miro.medium.com/max/3000/1*LyQ2uIv3GUiGV9e5LtbbKA.jpeg?q=20" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/1*LyQ2uIv3GUiGV9e5LtbbKA.jpeg" alt="2" width="800px">
 
 >Jordan x Fortnite. Image source: <a class="dn kj" href="https://www.youtube.com/watch?v=IdmurblgyRI" rel="noopener nofollow">Youtube</a>
 
@@ -38,13 +38,13 @@ To focus on the building blocks of the digital economy, we had no interest in in
 
 We looked for a best-in-class team in the NFT ecosystem that had a long-term vision compatible with our long-term investment horizon. Then we found Mintbase (<a href='https://mintbase.io/' target='_blank'>https://mintbase.io/</a>). A marketplace that gives users the tools to exchange NFTs. What distinguishes Mintbase from other competitors is that users and participants can also mint NFTs and offers NFTs which are not frequently available on other platforms. Users can also create their own store.
 
-<img src="https://miro.medium.com/max/3000/1*goNKRy741cDHeOBtVjdodw.png?q=20" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/1*goNKRy741cDHeOBtVjdodw.png" alt="3" width="800px">
 
 >Mintbase landing page. Image source: <a class="dn kj" href="https://mintbase.io/" rel="noopener nofollow">Mintbase.io</a>
 
 Furthermore, Mintbase strives to bridge content creators, artists and others with those that appreciate and value their work. Mintbase currently covers NFT segments such as music, art, services, tickets, photography and more.
 
-<img src="https://miro.medium.com/max/3000/1*6wD9rAcBh9RxHyCxmA3QXg.png?q=20" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/1*6wD9rAcBh9RxHyCxmA3QXg.png" alt="4" width="800px">
 
 >Mintbase stores. Image source: <a class="dn kj" href="https://mintbase.io/" rel="noopener nofollow">Mintbase.io</a>
 
@@ -59,7 +59,7 @@ To illustrate some key highlights of Mintbase that demonstrate their results so 
 - ~14K Total Users
 - ~76K Total Token Transfers
 
-<img src="https://miro.medium.com/max/3000/1*X-hxaBquegO6fxunEd6Srg.png?q=20" alt="5" width="800px">
+<img src="https://miro.medium.com/max/3000/1*X-hxaBquegO6fxunEd6Srg.png" alt="5" width="800px">
 
 >Mintbase statistics. Image source: <a class="dn kj" href="https://dashboard.dappquery.com/d/0VwYLwjWk/mintbase?orgId=1&amp;from=now-5M&amp;to=now&amp;kiosk&amp;presentation_mode" rel="noopener nofollow">DAppQuery</a>
 
