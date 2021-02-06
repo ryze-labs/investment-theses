@@ -12,6 +12,7 @@ A central tenant of Sino Global Capital’s thesis is investing in the building 
 
 ## NFTs
 <img src="https://miro.medium.com/max/3000/1*I1uyZLAqJZQ__ZMkLR67Ew.png?q=20" alt="1" width="800px">
+
 >NFTs. Image source: <a class="dn kj" href="https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain" rel="noopener nofollow">Decrypt</a>
 
 What makes NFTs powerful are their potential to tokenize a physical asset and create a digital representation of the underlying asset. This is especially useful for illiquid assets or assets that do not represent value outside their “environment”. A clear example of illiquid assets is real estate. With the emergence of NFTs, those illiquid assets can easily be digitalized and moved around, which leads to innovative opportunities. Given that NFTs are assets, these can be borrowed or lent out as collateral, generating more cash flow. Games are another relevant example of why NFTs are powerful. Skins in Fortnite or League of Legends cannot be traded or exchanged outside the game. However, with NFTs and marketplaces, those “assets” can be exchanged for value outside their original game. With NFTs, standardization will become more obvious as it enables digital assets to move freely across various platforms, realizing interoperability and connectivity while giving ownership pack to the user.
