@@ -139,24 +139,24 @@ As Oxygen leverages the Serum ecosystem, projects will integrate with or expand 
 
 ## Protocol flow
 
-**1. Deposit: ** Users create a new pool and deposit assets to the protocol. let’s say wBTC. The oxygen protocol issues the equivalent OXY_wBTC to the pool.
+**1. Deposit:** Users create a new pool and deposit assets to the protocol. let’s say wBTC. The oxygen protocol issues the equivalent OXY_wBTC to the pool.
 
 <img src="https://miro.medium.com/max/3000/1*AJ8aAxQR0N2MzGSnIoUQSA.png" alt="8" width="800px">
 
-**2. Lend: ** Users enable “generate yield”, signifying they want their assets to be lent out at a minimum yield. The protocol issues the user an IOU_wBTC, sends your OXY_wBTC underlying dex (Serum) with an order to sell the OXY_wBTC, and buy 1.0005 of wBTC_FUTURE.
+**2. Lend:** Users enable “generate yield”, signifying they want their assets to be lent out at a minimum yield. The protocol issues the user an IOU_wBTC, sends your OXY_wBTC underlying dex (Serum) with an order to sell the OXY_wBTC, and buy 1.0005 of wBTC_FUTURE.
 
-<img src="https://miro.medium.com/max/3000/1*J6-ClFLgnNdHHZKLNPtQCg.png" alt="9" width="800px">
+<img src="https://miro.medium.com/max/3000/1*J6-ClFLgnNdHHZKLNPtQCg.png" alt="9" width="500px">
 
 **3. Return assets:** After 24 hours, 1.0005 wBTC_FUTURE turns into 1.0005 OXY_BTC (1 principal and 0.05% interest).
 
-<img src="https://miro.medium.com/max/3000/1*eEBuhfJC0L0fmDse5Z3jbQ.png" alt="10" width="800px">
+<img src="https://miro.medium.com/max/3000/1*eEBuhfJC0L0fmDse5Z3jbQ.png" alt="10" width="500px">
 
 **4. Borrow.** The user enters a trade to borrow BTC at a specific rate for 1 day. If the borrow request is matched with a lender, they will receive 1 OXY_BTC and 1.05 OXY_DEBT_BTC.
 
 
 **5. Return assets.** The borrower sends 1.05 OXY_BTC to the lender which burns their 1.05 OXY_DEBT_BTC
 
-<img src="https://miro.medium.com/max/3000/1*Uyrsqv1jIhHSY48-HITRjw.png" alt="11" width="800px">
+<img src="https://miro.medium.com/max/3000/1*Uyrsqv1jIhHSY48-HITRjw.png" alt="11" width="500px">
 
 >Successful trade flowchart. Source: <a class="dm ik" href="https://www.oxygen.org/docs-example.html" rel="noopener nofollow">https://www.oxygen.org/docs-example.html</a>
 <br>
