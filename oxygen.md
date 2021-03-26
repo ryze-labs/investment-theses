@@ -139,11 +139,11 @@ As Oxygen leverages the Serum ecosystem, projects will integrate with or expand 
 
 ## Protocol flow
 
-**1. Deposit: **Users create a new pool and deposit assets to the protocol. let’s say wBTC. The oxygen protocol issues the equivalent OXY_wBTC to the pool.
+**1. Deposit: ** Users create a new pool and deposit assets to the protocol. let’s say wBTC. The oxygen protocol issues the equivalent OXY_wBTC to the pool.
 
 <img src="https://miro.medium.com/max/3000/1*AJ8aAxQR0N2MzGSnIoUQSA.png" alt="8" width="800px">
 
-**2. Lend: **Users enable “generate yield”, signifying they want their assets to be lent out at a minimum yield. The protocol issues the user an IOU_wBTC, sends your OXY_wBTC underlying dex (Serum) with an order to sell the OXY_wBTC, and buy 1.0005 of wBTC_FUTURE.
+**2. Lend: ** Users enable “generate yield”, signifying they want their assets to be lent out at a minimum yield. The protocol issues the user an IOU_wBTC, sends your OXY_wBTC underlying dex (Serum) with an order to sell the OXY_wBTC, and buy 1.0005 of wBTC_FUTURE.
 
 <img src="https://miro.medium.com/max/3000/1*J6-ClFLgnNdHHZKLNPtQCg.png" alt="9" width="800px">
 
