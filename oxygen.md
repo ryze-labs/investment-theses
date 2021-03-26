@@ -28,7 +28,7 @@ We at Sino believe that blockchain is the greatest innovation in technology sinc
 DeFi has grown in maturity to offer more complex services to individuals; from payments and borrow / lending to derivatives and insurance. The next step in the evolution of DeFi will be in offering more complex services to users at an institutional / protocol scale while remaining accessible for the average user; something not possible in TradFi. Some TradFi functions are unavailable to small investors and lie solely within the remit of large funds. One such function is prime brokerage.
 
 
-**What is prime brokerage?**
+## What is prime brokerage?
 
 
 Traditional prime brokerage refers to a suite of specialized services offered to large investors like hedge funds that, given the size of their trades and investments, could not be offered by a standard brokerage. Services include:
