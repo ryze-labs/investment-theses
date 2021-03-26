@@ -62,19 +62,19 @@ Oxygen is a DeFi Prime Brokerage Protocol allowing users access to some of the p
 
 Oxygen has begun by offering borrow / lending services via pools based infrastructure.
 
-<img src="https://miro.medium.com/max/3000/1*e-N9TTxHGgCuaUaD7JkjIw.png" alt="2" width="500px">
+<img src="https://miro.medium.com/max/3000/1*e-N9TTxHGgCuaUaD7JkjIw.png" alt="2" width="600px">
 
 >Users can create pools
-<img src="https://miro.medium.com/max/3000/1*RSJRHP5ZLHBetJXk9N26jQ.png" alt="3" width="500px">
+<img src="https://miro.medium.com/max/3000/1*RSJRHP5ZLHBetJXk9N26jQ.png" alt="3" width="600px">
 
 >Here we added USDC and SRM to a pool
-<img src="https://miro.medium.com/max/3000/1*6O8UFoFLC-QXGIRpRSTt3Q.png" alt="4" width="500px">
+<img src="https://miro.medium.com/max/3000/1*6O8UFoFLC-QXGIRpRSTt3Q.png" alt="4" width="600px">
 
 >Confirm how much we want to add. Gives users more flexibility. We will add 100% of both.
-<img src="https://miro.medium.com/max/3000/1*BNBgva0ciNj1pesq27FDRg.png" alt="5" width="500px">
+<img src="https://miro.medium.com/max/3000/1*BNBgva0ciNj1pesq27FDRg.png" alt="5" width="600px">
 
 >Use the mobile app to continue.
-<img src="https://miro.medium.com/max/3000/1*2cM2hNw8cYXWWvzz1hNYJQ.png" alt="6" width="500px">
+<img src="https://miro.medium.com/max/3000/1*2cM2hNw8cYXWWvzz1hNYJQ.png" alt="6" width="400px">
 
 >Confirm on mobile after scanning QR
 
