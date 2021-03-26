@@ -62,18 +62,19 @@ Oxygen is a DeFi Prime Brokerage Protocol allowing users access to some of the p
 
 Oxygen has begun by offering borrow / lending services via pools based infrastructure.
 
-<img src="https://miro.medium.com/max/3000/1*e-N9TTxHGgCuaUaD7JkjIw.png" alt="2" width="600px">
+<img src="https://miro.medium.com/max/3000/1*e-N9TTxHGgCuaUaD7JkjIw.png" alt="2" width="800px">
 
 >Users can create pools
-<img src="https://miro.medium.com/max/3000/1*RSJRHP5ZLHBetJXk9N26jQ.png" alt="3" height="700px">
+<img src="https://miro.medium.com/max/3000/1*RSJRHP5ZLHBetJXk9N26jQ.png" alt="3" width="800px">
 
 >Here we added USDC and SRM to a pool
-<img src="https://miro.medium.com/max/3000/1*6O8UFoFLC-QXGIRpRSTt3Q.png" alt="4" height="700px">
+<img src="https://miro.medium.com/max/3000/1*6O8UFoFLC-QXGIRpRSTt3Q.png" alt="4" width="800px">
 
 >Confirm how much we want to add. Gives users more flexibility. We will add 100% of both.
-<img src="https://miro.medium.com/max/3000/1*BNBgva0ciNj1pesq27FDRg.png" alt="5" height="700px">
+<img src="https://miro.medium.com/max/3000/1*BNBgva0ciNj1pesq27FDRg.png" alt="5" width="800px">
 
 >Use the mobile app to continue.
+<img src="https://miro.medium.com/max/3000/1*2cM2hNw8cYXWWvzz1hNYJQ.png" alt="6" width="800px">
 
 >Confirm on mobile after scanning QR
 
@@ -140,22 +141,22 @@ As Oxygen leverages the Serum ecosystem, projects will integrate with or expand 
 
 **1. Deposit:** Users create a new pool and deposit assets to the protocol. let’s say wBTC. The oxygen protocol issues the equivalent OXY_wBTC to the pool.
 
-<img src="https://miro.medium.com/max/3000/1*AJ8aAxQR0N2MzGSnIoUQSA.png" alt="8" width="500px">
+<img src="https://miro.medium.com/max/3000/1*AJ8aAxQR0N2MzGSnIoUQSA.png" alt="8" width="800px">
 
 **2. Lend:** Users enable “generate yield”, signifying they want their assets to be lent out at a minimum yield. The protocol issues the user an IOU_wBTC, sends your OXY_wBTC underlying dex (Serum) with an order to sell the OXY_wBTC, and buy 1.0005 of wBTC_FUTURE.
 
-<img src="https://miro.medium.com/max/3000/1*J6-ClFLgnNdHHZKLNPtQCg.png" alt="9" width="500px">
+<img src="https://miro.medium.com/max/3000/1*J6-ClFLgnNdHHZKLNPtQCg.png" alt="9" width="800px">
 
 **3. Return assets:** After 24 hours, 1.0005 wBTC_FUTURE turns into 1.0005 OXY_BTC (1 principal and 0.05% interest).
 
-<img src="https://miro.medium.com/max/3000/1*eEBuhfJC0L0fmDse5Z3jbQ.png" alt="10" width="500px">
+<img src="https://miro.medium.com/max/3000/1*eEBuhfJC0L0fmDse5Z3jbQ.png" alt="10" width="800px">
 
 **4. Borrow.** The user enters a trade to borrow BTC at a specific rate for 1 day. If the borrow request is matched with a lender, they will receive 1 OXY_BTC and 1.05 OXY_DEBT_BTC.
 
 
 **5. Return assets.** The borrower sends 1.05 OXY_BTC to the lender which burns their 1.05 OXY_DEBT_BTC
 
-<img src="https://miro.medium.com/max/3000/1*Uyrsqv1jIhHSY48-HITRjw.png" alt="11" width="500px">
+<img src="https://miro.medium.com/max/3000/1*Uyrsqv1jIhHSY48-HITRjw.png" alt="11" width="800px">
 
 >Successful trade flowchart. Source: <a class="dm ik" href="https://www.oxygen.org/docs-example.html" rel="noopener nofollow">https://www.oxygen.org/docs-example.html</a>
 <br>
