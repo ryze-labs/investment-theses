@@ -66,7 +66,7 @@ There are some market inefficiencies which make platforms like Zignaly attractiv
 - High barriers, risk for new investors. There is a high knowledge barrier for beginners as blockchain protocols grow in sophistication. On top of that, scams and volatile prices combined with a lack of experience can amplify the risks for first time investors. Social trading enables users of all kinds to invest without needing to worry about intricate and costly setups. By integrating exchanges with Zignaly, there will be a single central platform making investing more accessible and transparent.
 - Expert traders. Experienced traders have spent years honing their skills, however there is no all-inclusive platform available for these traders to monetize their skills beyond their direct trades. Zignaly has created an ecosystem that connects investors and traders of all levels where traders can monetize their skills and establish a trustworthy reputation based on their engagement and performance.
 
-<img src="https://miro.medium.com/max/3000/1*wtVggiDNRcASak9UaiYqbA.png" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/1*wtVggiDNRcASak9UaiYqbA.png" alt="3" width="500px">
 
 >Zignaly user ecosystem
 
@@ -92,7 +92,7 @@ What makes profit sharing unique and more beneficial than regular copy trading i
 
 We illustrate the differences in a table below:
 
-<img src="https://miro.medium.com/max/3000/1*VGpAd6FOS6wE_w5BHHKt4g.png" alt="6" width="800px">
+<img src="https://miro.medium.com/max/3000/1*VGpAd6FOS6wE_w5BHHKt4g.png" alt="6" width="600px">
 
 >Standard copy trading vs. Profit sharing model
 <br>
