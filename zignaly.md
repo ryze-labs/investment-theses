@@ -117,7 +117,7 @@ Now let’s have a deep dive into the insurance mechanics, consisting of four ke
 - ZIG Coin. ZIG forms an indispensable component of Zignaly’s insurance protocol, providing users the ability to hedge against volatility and safeguard 10%-100% of their investment.
 - NFTs. The in-house Zignaly NFTs system creates a comprehensive tracking system that simplifies the monitoring of inflows and outflows on the platform.
 - Fund Value Formula. In order to mitigate significant losses for users, and to provide stable insurance pool liquidity, the Zignaly NFT is presented in conjunction with the fund formula.
-- Drawback Percentage. Zignaly’s flexible and dynamic insurance model assesses the risk level of traders in real time. This is based on their historic trading performance as well as market intelligence. The risk is determined by a constantly adjusting formula known as the drawback percentage rate. This aims to be gauge risk within the protocol.
+- Drawback Percentage. Zignaly’s flexible and dynamic insurance model assesses the risk level of traders in real time. This is based on their historic trading performance as well as market intelligence. The risk is determined by a constantly adjusting formula known as the drawback percentage rate. This aims to gauge risk within the protocol.
 
 <img src="https://miro.medium.com/max/3000/1*qoF4_IB3-QHSmITIAFek7w.png" alt="7" width="800px">
 
