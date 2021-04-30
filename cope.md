@@ -185,7 +185,7 @@ Beyond the validation, accounts with good scores will also be incentivized to pr
 
 <br>
 
-## The rise of trader influencers
+## The Rise of Trader Influencers
 
 Gen Z and millennials are not getting their financial advice from their parent’s advisors — and why should they? Most “Trusted” advisors have adamantly their clients from the best-performing asset of the last decade; bitcoin/crypto. Grassroots online communities, anti-establishment sentiment, and viral social media have converged in a perfect storm to give rise to a new bread of financial advisors that for the first time in history has real market impacts. While in a lot of ways this is a good thing — decentralizing the source of financial advice — there are obvious concerns about the quality of that advice especially when it comes from people without credentials/experience, or qualifications. If this is to be the future of the way people invest, it is imperative we measure what’s going on and hold these call makers accountable. Cope brings transparency and accountability to people who make investment advice, not only to flag those who have made bad calls in the past but to highlight those who are the most consistent and accurate. This seems so intuitive that we should be able to compare financial advisors by their performance, however, if you try to research the performance history for most financial advisors or even wall street analysis it would be nearly impossible to find anything substantive.
 
@@ -194,13 +194,13 @@ One of the most common disruptive startup templates is metric based comparison s
 
 <br>
 
-## Cope community building in China with Sino
+## Cope Community Building in China with Sino
 
 Sino Global Capital looks for projects that we can add strategic value to by enabling their success in the mainland China market. Sino has a China community/marketing expert who is 100% dedicated to helping our portfolio companies thrive in China. To start, we created a Cope China WeChat group that now has 285 members, and we share project updates such as the cope tokenomics — that we had translated into Mandarin. Going forward we are going to collaborate with local crypto communities and media companies to spread awareness and engagement in the China crypto ecosystem for Cope.
 
 <br>
 
-## Key risks and threats
+## Key Risks and Threats
 
 **Early.** Cope hasn’t launched yet. So while the community, team, and adoption strategy prove to be set up for success, the real test will be whether they can deliver on their roadmap and launch a product that works in production.
 
@@ -240,7 +240,7 @@ If a particular trading pool develops a large pool of capital behind it, the cal
 - The Cope score is designed to disincentivize front-running. Front-running will result in diminished ROI which will directly affect their Cope score. While it is likely some people will employ clever strategies to try to get away with this, the Cope protocol can implement measures such as issuing a “front-running detected notice” — and if repeated, discontinue the accounts trading pool. This will carry a significant reputational penalty for the frontrunner, likely creating a district amongst their followers.
 
 
-**Conclusion**
+## Conclusion
 
 
 As social media influence and financial advice continue to converge, Cope provides the critical infrastructure to support both holding call makers accountable and deploying your capital behind these call makers. The stellar team, grassroots community, sound token economics, built-in natural viral adoption, all set the Cope protocol up to succeed.
