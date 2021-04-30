@@ -125,6 +125,7 @@ Similar to the Cope Trading Pools, profits from the Cope Index are harvested eve
 
 Notably, the Cope index fees are substantially lower than the Cope Trading pools - 20% of profits rather than 35% of profits. Additionally, there is no profit sharing with the call makers, so a larger share of the profits are used for Cope burning and community development.
 
+<br>
 
 ## Token Supply Sinks
 
