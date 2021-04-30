@@ -32,7 +32,7 @@ As the crypto ecosystem has exploded in popularity, there are new projects every
 
 ## Cope score
 
-Cope Scores range from 0 to 1000, but start at 400,** **and represent a quantitative metric used to measure the accuracy of Twitter accounts market calls. Once a Cope report is generated, Twitter bots begin crawling the account and monitoring all subsequent tweets. Every two weeks the system will adjust the Cope Score of all accounts based on the quality of their market calls. The Cope Score utilizes the following variables to evaluate performance:
+Cope Scores range from 0 to 1000, but start at 400, and represent a quantitative metric used to measure the accuracy of Twitter accounts market calls. Once a Cope report is generated, Twitter bots begin crawling the account and monitoring all subsequent tweets. Every two weeks the system will adjust the Cope Score of all accounts based on the quality of their market calls. The Cope Score utilizes the following variables to evaluate performance:
 
 
 **ROI**
@@ -58,6 +58,9 @@ Beyond bragging rights and validation, maintaining good standing on the Cope Lea
 <img src="https://miro.medium.com/max/3000/1*8SgCz1G2ZJvb0ySnJ3O5GA.png" alt="2" width="800px">
 
 >COPE flow
+
+More info on Cope tokenomics can be found <a href='https://www.unlimitedcope.com/assets/COPE_Tokenomics_0.pdf' target='_blank'>here</a>.
+
 <br>
 
 ## Examples of Twitter market calls
