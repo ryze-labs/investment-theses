@@ -14,7 +14,7 @@ Zapper is a one-stop-shop for deploying and managing DeFi positions. It is one o
 <img src="https://miro.medium.com/max/3000/1*5JZOtB4almvE-YCNREN0Rg.png" alt="1" width="600px">
 
 >Zapper dashboard, clean categorized UI.
-<img src="https://miro.medium.com/max/3000/0*Tlau6o87M8PooBjd.png" alt="2" width="500px">
+<img src="https://miro.medium.com/max/3000/0*Tlau6o87M8PooBjd.png" alt="2" width="400px">
 
 >TradFi siloed dashboard. Source: <a class="ds ib" href="https://www.wellsfargo.com/online-banking/tour/online-brokerage/" rel="noopener nofollow">https://www.wellsfargo.com/online-banking/tour/online-brokerage/</a>
 <br>
@@ -70,7 +70,7 @@ Zapper has grown from a simple dashboard to a multi-functional DeFi asset manage
 
 **Exchange**
 
-<img src="https://miro.medium.com/max/3000/1*7eA4TWVLKxwHi6_fUJiafQ.png" alt="5" width="500px">
+<img src="https://miro.medium.com/max/3000/1*7eA4TWVLKxwHi6_fUJiafQ.png" alt="5" width="400px">
 
 >Zapper’s “Exchange” function allows token swaps without leaving the dashboard, giving you the best price from an aggregated list of top swap protocols.
 
@@ -94,7 +94,7 @@ Zapper’s farming features allow similar filtering and sorting as with pools, h
 
 **Token bridge**
 
-<img src="https://miro.medium.com/max/3000/1*6Rwtp_iGhr0nS5T0jjQWqg.png" alt="8" width="500px">
+<img src="https://miro.medium.com/max/3000/1*6Rwtp_iGhr0nS5T0jjQWqg.png" alt="8" width="400px">
 
 >Zapper has been EVM compatible from the ground up and supports a bridge to Polygon with Optimism coming soon.
 
@@ -134,7 +134,7 @@ Zapper has also introduced a bridge option to ETH L2s and sidechains as mentione
 **Long term flexibility**
 
 
-Due to Zapper’s custom “Zaps” smart contracts, Zapper is in a unique position to make custom integrations and deployments across multiple platforms without leaving the Zapper dashboard. One example is the recent announcement that Zapper is “very close to releasing a feature where you will be able to add and remove liquidity on QuickswapDEX and PancakeSwap” with further integrations with Optimum and Arbitrum in the works. This speed in keeping up with the latest trends and technologies has become a signature of Zapper and is one of the reasons why we are super bullish on the platform’s future.
+Due to Zapper’s custom “Zaps” smart contracts, Zapper is in a unique position to make custom integrations and deployments across multiple platforms without  d Zapper dashboard. One example is the recent announcement that Zapper is “very close to releasing a feature where you will be able to add and remove liquidity on QuickswapDEX and PancakeSwap” with further integrations with Optimum and Arbitrum in the works. This speed in keeping up with the latest trends and technologies has become a signature of Zapper and is one of the reasons why we are super bullish on the platform’s future.
 
 
 **User experience**
@@ -148,7 +148,7 @@ Zapper finds the right balance between simplicity and control, careful not to ab
 
 In addition to the functionality above, which makes it easier for newcomers to deploy strategies, Zapper also invests a lot of time educating the community on various DeFi trends.
 
-<img src="https://miro.medium.com/max/3000/1*FUykfRSJGWA4aY80bYiKWA.png" alt="12" width="500px">
+<img src="https://miro.medium.com/max/3000/1*FUykfRSJGWA4aY80bYiKWA.png" alt="12" width="400px">
 
 >Source: <a class="ds ib" href="https://learn.zapper.fi/articles/farm-stablecoins-with-curve-on-polygon" rel="noopener nofollow">https://learn.zapper.fi/articles/farm-stablecoins-with-curve-on-polygon</a>
 
