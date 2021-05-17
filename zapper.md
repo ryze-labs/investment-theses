@@ -166,6 +166,9 @@ As a key knowledge base, learn.zapper.fi is a useful gateway into the world of D
 <br>
 
 ## Competitive landscape
+
+Other players in the DeFi aggregator space are Zerion and DeBank.
+
 - Zerion doesn’t have comprehensive integrations in a single vertical, but allows its users to interact with a select few protocols in each sub-niche; DeFi indexes, L2 scaling tokens, Aave interest bearing tokens, TokenSets etc. It has expanded its offering across multiple verticals but doesn’t support every protocol in these verticals. Zerion also has a mobile app on both Android and iOS which may be useful in onboarding TradFi users to DeFi.
 - DeBank has a slick interface however currently only supports Metamask and is limited to basic token swaps.
 - Zapper is by far the easiest way to interact with liquidity pools, automating the split of capital between the pool assets. The platform has a comprehensive selection of LPs, and up until now had less integrations across DeFi’s various verticals, previously taking the approach of focusing on a single niche and providing comprehensive coverage. This has changed with recent bridges to L2 protocols Optimism and Polygon with more integrations expected in the future. Lastly it supports a range of wallets, including WalletConnect for mobile, to maximise user onboarding.
