@@ -11,10 +11,10 @@ We are excited to announce our investment in <a href='https://twitter.com/zapper
 
 Zapper is a one-stop-shop for deploying and managing DeFi positions. It is one of the most widely known and used tools in the entire industry. In contrast to traditional full-service banks and brokers in TradFi, DeFi, an industry still in relative infancy, has seen several different platforms emerge offering a wide range of services to users e.g.: lend/borrow on Compound, interest on Aave, trading on dYdX, swapping on Sushi and insurance on Nexus. While specialised services are useful and inevitable in a new industry, it has led to asset silos and industry fragmentation which is an inconvenience for DeFi users from an asset management perspective. As most DeFi users know, Zapper solved this problem and, in many ways, did so better than TradFi.
 
-<img src="https://miro.medium.com/max/3000/1*5JZOtB4almvE-YCNREN0Rg.png" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/1*5JZOtB4almvE-YCNREN0Rg.png" alt="1" width="600px">
 
 >Zapper dashboard, clean categorized UI.
-<img src="https://miro.medium.com/max/3000/0*Tlau6o87M8PooBjd.png" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/0*Tlau6o87M8PooBjd.png" alt="2" width="500px">
 
 >TradFi siloed dashboard. Source: <a class="ds ib" href="https://www.wellsfargo.com/online-banking/tour/online-brokerage/" rel="noopener nofollow">https://www.wellsfargo.com/online-banking/tour/online-brokerage/</a>
 <br>
@@ -55,7 +55,7 @@ Some change had occurred prior to crypto, with fintech applications like Paypal 
 
 The speed, security and programmability of crypto is revolutionizing finance and its integration into FinTech and TradFi is likely to continue. In fact, we see it as likely that most of the heavy lifting (transfer, conversion, settlement and security) in FinTech transactions will be handled by a blockchain base layer, something the Bankless team refer to as a DeFi mullet (<a href='https://newsletter.banklesshq.com/p/the-defi-mullet-market-monday-lite' target='_blank'>https://newsletter.banklesshq.com/p/the-defi-mullet-market-monday-lite</a>), whereby “The UX of FinTech and the open financial infrastructure of crypto will lead to apps that are 100x better than alternatives.”
 
-<img src="https://miro.medium.com/max/3000/1*OEJOV20WkOXUH3mhPxK0Rw.jpeg" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/1*OEJOV20WkOXUH3mhPxK0Rw.jpeg" alt="4" width="400px">
 
 >Source: <a class="ds ib" href="https://newsletter.banklesshq.com/p/the-defi-mullet-market-monday-lite" rel="noopener nofollow">https://newsletter.banklesshq.com/p/the-defi-mullet-market-monday-lite</a>
 
@@ -70,7 +70,7 @@ Zapper has grown from a simple dashboard to a multi-functional DeFi asset manage
 
 **Exchange**
 
-<img src="https://miro.medium.com/max/3000/1*7eA4TWVLKxwHi6_fUJiafQ.png" alt="5" width="800px">
+<img src="https://miro.medium.com/max/3000/1*7eA4TWVLKxwHi6_fUJiafQ.png" alt="5" width="500px">
 
 >Zapper’s “Exchange” function allows token swaps without leaving the dashboard, giving you the best price from an aggregated list of top swap protocols.
 
@@ -94,7 +94,7 @@ Zapper’s farming features allow similar filtering and sorting as with pools, h
 
 **Token bridge**
 
-<img src="https://miro.medium.com/max/3000/1*6Rwtp_iGhr0nS5T0jjQWqg.png" alt="8" width="800px">
+<img src="https://miro.medium.com/max/3000/1*6Rwtp_iGhr0nS5T0jjQWqg.png" alt="8" width="500px">
 
 >Zapper has been EVM compatible from the ground up and supports a bridge to Polygon with Optimism coming soon.
 
@@ -148,7 +148,7 @@ Zapper finds the right balance between simplicity and control, careful not to ab
 
 In addition to the functionality above, which makes it easier for newcomers to deploy strategies, Zapper also invests a lot of time educating the community on various DeFi trends.
 
-<img src="https://miro.medium.com/max/3000/1*FUykfRSJGWA4aY80bYiKWA.png" alt="12" width="800px">
+<img src="https://miro.medium.com/max/3000/1*FUykfRSJGWA4aY80bYiKWA.png" alt="12" width="500px">
 
 >Source: <a class="ds ib" href="https://learn.zapper.fi/articles/farm-stablecoins-with-curve-on-polygon" rel="noopener nofollow">https://learn.zapper.fi/articles/farm-stablecoins-with-curve-on-polygon</a>
 
@@ -181,3 +181,8 @@ There are a number of ways Sino can help Zapper continue its growth, particularl
 ## Conclusion
 
 Zapper’s evolution from a simple portfolio tracking dashboard to a one-stop-shop that includes cross-chain deployment (all powered by custom smart contracts) has made it a leader in DeFi. With a team committed to fast integrations, user-centric design, and constant upgrades in line with industry developments, we believe zapper will remain a cornerstone of the industry for the foreseeable future.
+
+<br>
+<br>
+
+<i>Disclaimer: This content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained here constitutes a solicitation, recommendation. endorsement or offer by Sino or any third party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.</i>
