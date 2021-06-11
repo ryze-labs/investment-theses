@@ -102,7 +102,7 @@ After depositing their assets, lenders will receive Liquidity Provider (LP) toke
 
 Mercurial Finance understands that a highly usable and seamless interface is critical for catalyzing the migration from centralized to decentralized platforms. As such, providing an intuitive interface and comfortable user experience are key priorities to Mercurial. The team is continually working to refine their UX/UI and develop design patterns that will minimize friction.
 
-<img src="https://miro.medium.com/max/3000/1*UOZheSyDw-Tqy9oCqAKRcw.png" alt="6" width="800px">
+<img src="https://miro.medium.com/max/3000/1*UOZheSyDw-Tqy9oCqAKRcw.png" alt="6" width="400px">
 
 >Clean Mercurial UI
 <br>
