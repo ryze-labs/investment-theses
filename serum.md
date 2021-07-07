@@ -314,4 +314,4 @@ Research by <a href='http://twitter.com/dermotmcg' target='_blank'>@dermotmcg</a
 Also credit to the Serum team and <a href='http://twitter.com/SBF' target='_blank'>@SBF</a> for making primary resources available to assist in research and review.
 
 
-**Disclaimer: **
+**Disclaimer:** *This content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained here constitutes a solicitation, recommendation. endorsement or offer by Sino or any third party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.*
