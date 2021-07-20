@@ -60,7 +60,8 @@ Solana のスマートコントラクトは [StackOverflow](https://insights.sta
 
 Solana は、活発なエコシステムの基盤を構築するために、よく計算されたパートナーシップを結んできました。Solana は分散型金融の重要な構成要素である USDC と USDT をどちらもネイティブにサポートしています（これら両方のアセットをサポートするブロックチェーンは他には Algorand と Ethereum しかありません）。健全なエコシステムのもう一つの鍵は、強力なオンチェーンの流動性です。Jump Trading は Solana ベースの分散型取引所プラットフォームである Serum でマーケットメイクを行う予定です。加えて、Solana は、 Sam Bankman-Fried (Serum と FTX の設立者) および急成長している彼の影響力があるコミュニティと戦略的に連携しています。Solana はエコシステムの多くの主要なチームにとってとても魅力的であることを証明しています。
 
-![](https://miro.medium.com/max/1400/1*Rt0d-C8UiP2ar6vetK2mgQ.png)Solana エコシステム
+![](https://miro.medium.com/max/1400/1*Rt0d-C8UiP2ar6vetK2mgQ.png)
+Solana エコシステム
 
 <br>
 
