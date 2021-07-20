@@ -147,19 +147,20 @@ Solana は、高性能な大規模分散システム開発に深い知見を持�
 Solana に関する統計
 =============
 
-![](https://miro.medium.com/max/2000/1*J3kVW2UdgvfdN3za1g1L1w.png)トッププロトコルの比較
+![](https://miro.medium.com/max/2000/1*J3kVW2UdgvfdN3za1g1L1w.png)
+><em>トッププロトコルの比較</em>
 
 データによれば、界隈をリードするスマートコントラクトプラットフォームや Layer 2 ソリューションの中でも、Solana はもっとも優れた性能を有しています。Solana は、シャードやレイヤーによってコンポーザビリティを犠牲にすることなく、より多くのトランザクション処理と最速のファイナリティを低コストで実現しています。技術的な優位性は、もっとも活発な開発陣（13000 以上の Github コミットを行っています）を抱えていることからもうかがえます。ネットワークバリデータの数の観点からいえば、Solana は、Avalanche と Ethereum には及ばないものの、Cosmos, Polkadot, Algorand および Near をすべて合計したよりも多くのノードを有しています。誕生から日が浅い Solana が多くのバリデータを有しているという事実は、Solana のスケーラビリティーに関しては、幅広いネットワークからの参加がネックにならないことを示しています。
 
-![](https://miro.medium.com/max/1400/1*cRP-LOX9YHtK6UwroyUOlw.png)性能と分散性
+![](https://miro.medium.com/max/1400/1*cRP-LOX9YHtK6UwroyUOlw.png)
+><em>性能と分散性</em>
 
 **Binance Smart Chain**
 
 Ethereum のトランザクションコストの高さから、多くのリテールユーザが Binance Smart Chain (BSC) に移行しました。BSC の特徴は、Binance エコシステム（BSC でのローンチと Binance への上場）との連携および EVM 互換性によって支えられています。この領域に参入してくる多くの新たなユーザは、スピードとコストほど分散性を重視していません。BSC は Proof of Authority というコンセンサス手法によって高い性能を実現しており、そのブロックチェーンはたった 21 個の事前に承認された参加者によって検証されています。これは、600 以上のバリデータが参加している Solana に比べて、分散の度合いが非常に低いといえます。
 
 <img alt="" src="https://miro.medium.com/max/2400/1*CKMVpc7ZHNYqXr6e3xZNrg.png"/>
-
-Solana のバリデータマップ (出典: [https://solanabeach.io/](https://solanabeach.io/))
+><em>Solana のバリデータマップ (出典: [https://solanabeach.io/](https://solanabeach.io/))</em>
 
 結論
 ==
