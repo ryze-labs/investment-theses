@@ -59,6 +59,10 @@ It allows users to seamlessly send encrypted messages, cryptocurrencies, and eve
 
 However, Mask have integrated more directly into current Web 2.0 user experiences by adding a direct layer over social media. We’ll explain a few key use cases and then illustrate why we find the strategy and tech to be visionary.
 
+1.  **Privacy and user control**: Sending encrypted posts to friends on Twitter/FB. As our good friend [@balajis](https://twitter.com/balajis) noted: “\[Mask\] Basically turns any platform into an E2E messaging app.” We’re excited at the prospect of building on top of platforms with such promising network effects.
+2.  **Contextual Transactions**: While using Twitter, you can hover over a “$+ticker”, e.g. “$ETH”, to view token prices and trade on Uniswap without leaving Twitter. This creates a better user experience. Furthermore, payments / donations can be sent in Gitcoin on top of social media.
+3.  **Decentralization/DeFi**: “Red packets” with crypto rewards can be easily shared on top of social media, giving KOLs a way to reward followers, among other uses. This could be expanded to limited edition NFT figures as part of marketing campaigns.
+
 <img src="https://miro.medium.com/max/3000/1*OG_ZQ96fNm8XqWMY5A-wsg.png" alt="5" width="800px">
 
 >Red Packets on Twitter via Maskbook. Source: <a class="dn kn" href="https://twitter.com/realmaskbook/status/1311710481149689862" rel="noopener nofollow">Twitter</a>
