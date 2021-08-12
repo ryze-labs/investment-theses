@@ -154,3 +154,7 @@ The high costs of transactions on Ethereum have priced out a lot of retail users
 ## Conclusion
 
 Solana fills a major performance gap in the world of blockchains while remaining decentralized and composable. A bet on Solana is a bet that one day we will need fully decentralized systems that can support thousands of high-value complex transactions per second and that the chain that can support that scalability and finality today will accrue significant value.
+
+> _“Because for DeFi to win, it can’t be decentralized OR fast OR cheap OR sophisticated OR innovative OR well-built OR have a large userbase. It needs to be all of those”._
+> 
+> _— SBF_ [_(Twitter link)_](https://twitter.com/SBF_Alameda/status/1368765762400231426?s=20)
