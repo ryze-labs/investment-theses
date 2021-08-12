@@ -111,6 +111,11 @@ Borrow / lending is just the beginning. The goal is to recreate traditional inve
 
 The features of Oxygen give users the ability to execute more strategies while managing their portfolio, thus maximizing yield. These include:
 
+1.  Trading leverage: the provision of leverage no longer needs to be dominated by centralized exchanges. Users can increase their trading position while trading on the decentralized Serum DEX.
+2.  Passive yield: Earn income on assets sitting in your wallet.
+3.  Borrowing to short: Decentralized shorting of assets.
+4.  Option writing: Custom products, write your own options.
+
 
 We believe As DeFi continues to mature and mirror TradFi complexity, Oxygen will have a competitive advantage in the future; leveraging the super-fast transaction processing and, most importantly, low cost of Solana + Serum. As complexity grows, users need not fear the exponential rise in fees as seen on other chains like Ethereum.
 
