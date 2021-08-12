@@ -181,11 +181,19 @@ Unlike most Airdrops — The Cope token was not quickly dumped on the market but
 
 Crypto Twitter influencers have a huge monetary incentive to adopt Cope and claim their Cope rewards. They are already putting in the work, now they can not only validate their past performance but earn additional income from it. Similar to the mechanics behind Bitclout’s rapid growth, Cope is positioned to go viral.
 
+<br>
+> _influencer validation + monetary incentive for activation = viral adoption_
 
 Crypto twitter Influencers with good Cope scores will be sure to share their scores with their followers as a form of validation, the same way many people share PnL leaderboards or screenshots of their successful trades. The Cope report is the most legitimate assessment of the advice they give to their followers. Awareness for the project to spread as Twitter influencers with good scores will organically be motivated to share their Cope reports with their followers. Major accounts will face mounting social pressure from their followers and competitors to publish their scores. This cycle will continue to feed adoption, awareness, and the social importance of a Cope Report and Leaderboard.
 
 
 Beyond the validation, accounts with good scores will also be incentivized to promote their Cope Score because the more people who subscribe to their Cope trading pool, the more rewards they can earn from the profit sharing.
+
+1.  Make Crypto market calls on Twitter
+2.  Unlock Cope Report to earn rewards on calls
+3.  Share Cope report/ Cope trading pool on Twitter for validation and to earn fees
+4.  Drive more usage and awareness of $COPE
+5.  Cope demand increases
 
 <br>
 
