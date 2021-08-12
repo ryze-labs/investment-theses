@@ -29,11 +29,17 @@ Furthermore, the daily transaction count for USDC and DAI have multiplied by a f
 
 The perennial problem that exists is the multitude of different stablecoin variants available (ie. USDT/USDC/DAI). Protocols utilize and implement each stablecoin variant for a myriad of different use-cases, often even issuing their own stablecoin (ie. LUSD on Liquity, alUSD on Alchemix). This fragmentation requires **traders** to exchange stablecoin variants as each use-case requires. Currently, the main 2 ways to exchange stablecoins on Solana are:
 
+1.  Place order on Serum’s central limit order book (CLOBs) (various DEX interfaces)
+2.  Swap on Serum’s Automated Market Maker (AMM) (various DEX interfaces)
+
 
 However, traders will either encounter issues of low on-chain liquidity within CLOBs, or high slippage incurred from AMMs.
 
 
 Similarly, another group of stablecoin power-users are **lenders** who wish to gain some yield on their stablecoin reserves. These lenders have 2 possible options on Solana:
+
+1.  Deposit their stablecoin in a money market to earn interest (not live yet)
+2.  Provide liquidity for stablecoin pairs on Serum’s AMM to earn swap fees and liquidity mining rewards if any (various DEX interfaces)
 
 
 Since these lenders will optimize for the highest lending rate, their supply is highly elastic and will allocate towards the platform offering the highest APR.
@@ -86,6 +92,9 @@ On the other hand, these dynamic vaults attract liquidity from lenders by maximi
 
 Liquidity is further enhanced by allowing users to deposit other tokens (ie SOL/SRM) to mint synthetic stablecoins like mUSD, which can be deposited in the dynamic vaults. These users gain the benefit of retaining exposure to their deposited asset, while earning double yield from:
 
+1.  Interest paid from Dynamic Vaults
+2.  Yield from native staking rewards
+
 
 After depositing their assets, lenders will receive Liquidity Provider (LP) tokens which can be utilized to further boost capital efficiency via:
 
@@ -110,6 +119,10 @@ Mercurial Finance understands that a highly usable and seamless interface is cri
 ## MER Token
 
 The native MER token is designed to have a wide range of mechanism that will accrue value to the token holders:
+
+1.  Fees from usage of swaps
+2.  Commissions from returns of the interest and yield accrued by the vault
+3.  Collateral for synthetic stables
 
 
 In addition, the MER token will be intrinsically linked to the governance of the Mercurial ecosystem. MER token holders will be able to vote on key parameters such as swap fees, vault commissions and yield strategies.
