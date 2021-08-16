@@ -6,7 +6,7 @@ Not financial advice.
 
 ## Introduction
 
-A central tenant of Sino Global Capital’s thesis is investing in the building blocks of the digital economy. We strive to keep informed of the latest developments in Blockchain and Web 3.0 so we can support, build and shape the future of the industry. When NFTs came on the scene we were very intrigued and saw a lot of potential for the technology in the future. They are an exciting, fast-growing, and fundamental building block with numerous unlocked use cases. What we did not see, however, were many attractive entry points.
+A central tenet of Sino Global Capital’s thesis is investing in the building blocks of the digital economy. We strive to keep informed of the latest developments in Blockchain and Web 3.0 so we can support, build and shape the future of the industry. When NFTs came on the scene we were very intrigued and saw a lot of potential for the technology in the future. They are an exciting, fast-growing, and fundamental building block with numerous unlocked use cases. What we did not see, however, were many attractive entry points.
 
 <br>
 
