@@ -6,7 +6,7 @@ Not investment advice.
 
 ## Introduction
 
-Solana is an ultrafast, low latency, high performance blockchain with smart contract functionality. Using an innovative approach to timekeeping called , Solana can achieve subsecond global state finality and transaction throughput of over 50k tps without compromising decentralization or security.
+Solana is an ultrafast, low latency, high performance blockchain with smart contract functionality. Using an innovative approach to timekeeping, called proof of history , Solana can achieve subsecond global state finality and transaction throughput of over 50k tps without compromising decentralization or security.
 
 
 Solana is uniquely positioned to gain market share from existing smart contract blockchains as well as attract new projects and users to the crypto/blockchain space.
@@ -45,7 +45,7 @@ Solana’s high-performance layer 1 blockchain drastically simplifies the develo
 The limited throughput of many existing blockchains incentivizes developers to build as little on-chain as possible to preserve block space and transaction costs. This causes developers to build unnecessarily convoluted technical architecture. Many dApps rely on an array of off-chain systems, and to scale will need to build across side chains or layer 2s. This adds significant development time, opens up attack vectors, and adds limitations to protocol functionality/ decentralization. With Solana’s large capacity, more can be done on-chain than ever before.
 
 
-Solana smart contracts are written in Rust which is one of the most  programming languages (4 years running on <a href='https://insights.stackoverflow.com/survey/2019?_ga=2.145733364.1196100561.1615833583-315986903.1615833583' target='_blank'>StackOverflow</a>). On Github, 24K users have contributed code written in Rust, where there are only <a href='https://github.com/search?q=language%3ASolidity+language%3ASolidity&type=Users&ref=advsearch&l=Solidity&l=' target='_blank'>3.5K</a> developers who have contributed Solidity code. While this is not a fair statistic to compare developer community size (100% of Solidity devs are working on Ethereum, a tiny fraction of Rust devs are working on Solana), it does demonstrate accessibility for new developers to begin building in the space.
+Solana smart contracts are written in Rust which is one of the most loved programming languages (4 years running on <a href='https://insights.stackoverflow.com/survey/2019?_ga=2.145733364.1196100561.1615833583-315986903.1615833583' target='_blank'>StackOverflow</a>). On Github, 24K users have contributed code written in Rust, where there are only <a href='https://github.com/search?q=language%3ASolidity+language%3ASolidity&type=Users&ref=advsearch&l=Solidity&l=' target='_blank'>3.5K</a> developers who have contributed Solidity code. While this is not a fair statistic to compare developer community size (100% of Solidity devs are working on Ethereum, a tiny fraction of Rust devs are working on Solana), it does demonstrate accessibility for new developers to begin building in the space.
 
 <br>
 
@@ -144,7 +144,7 @@ The data suggests Solana is the most performant blockchain amongst the leading s
 **Binance Smart Chain**
 
 
-The high costs of transactions on Ethereum have priced out a lot of retail users, who have moved to Binance Smart Chain(BSC). BSC’s accent was bolstered by its alignment with the Binance ecosystem (launch on BSC — get listed on Binance) and its EVM compatibility. For many new users entering the space, decentralized comes second to speed and cost. BSC achieves efficiency by using a Proof of Authority consensus that sees its blockchain validated by only 21 pre-approved participants. This is significantly less decentralized than Solana’s 600+ Validators.
+The high costs of transactions on Ethereum have priced out a lot of retail users, who have moved to Binance Smart Chain(BSC). BSC’s ascent was bolstered by its alignment with the Binance ecosystem (launch on BSC — get listed on Binance) and its EVM compatibility. For many new users entering the space, decentralized comes second to speed and cost. BSC achieves efficiency by using a Proof of Authority consensus that sees its blockchain validated by only 21 pre-approved participants. This is significantly less decentralized than Solana’s 600+ Validators.
 
 <img src="https://miro.medium.com/max/3000/1*kiuCkCyfPPUgWm9qrkeMpQ.png" alt="4" width="800px">
 
