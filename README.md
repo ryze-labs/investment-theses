@@ -8,7 +8,7 @@ More info at: https://choosealicense.com/licenses/cc-by-4.0/
 
 All investment strategies and investments involve risk of loss. Nothing contained in our theses should be construed as investment advice. Any reference to an investment's past or potential performance is not, and should not be construed as, a recommendation or as a guarantee of any specific outcome or profit.
 
-To view, explore the folders above or click the links below for thesis in:
+To view, explore the folders above or click the links below for theses in:
 
 - [English](https://github.com/sinoglobalcap/investment-theses/tree/main/english)
 - [中文](https://github.com/sinoglobalcap/investment-theses/tree/main/%E4%B8%AD%E6%96%87)
