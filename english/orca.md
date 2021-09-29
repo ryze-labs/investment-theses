@@ -95,7 +95,7 @@ Another aspect of Orca is it’s commitment to distribute its token to the commu
 </br>
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/2400/0*tn-gjhIa3p_SuP7M" width="600"/>
 
-The ORCA governance token is designed to support the long-term health of the Orca protocol. As such, most of the tokens are designed to be distributed to the greater community and supporters of the protocol to help shape and grow Orca into formidable force in AMMs. Typically projects with a wide distribution of tokens have a better participation in governance programs as users believe that their votes matter and are not solely dependent on votes by whales.
+The ORCA governance token is designed to support the long-term health of the Orca protocol. As such, most of the tokens are designed to be distributed to the greater community and supporters of the protocol to help shape and grow Orca into formidable force. Typically projects with a wide distribution of tokens have a better participation in governance programs as users believe that their votes matter and are not solely dependent on votes by whales.
 
 **Conclusion**
 ==============
