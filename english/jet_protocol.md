@@ -244,4 +244,6 @@ Jet are building a resilient, durable lending protocol and Sino is ecstatic to b
 
 We believe that Solana is the future of DeFi but still lacks basic DeFi functions and product integration with other chains. Jet protocol solves many of these key issues and has the potential to become a cornerstone service in DeFi, leveraging high throughput, low cost transactions, ultra fast data feeds and efficient price discovery to enable the true potential of DeFI to be unlocked. We look forward to helping Jet accelerate in the Asia markets and will continue to provide any strategic support they need.
 
+Research by [@dermotmcg](https://twitter.com/dermotmcg)
+
 **_Disclaimer:_** _This content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained here constitutes a solicitation, recommendation. endorsement or offer by Sino or any third party service provider to buy or sell any securities or other financial instruments in this or in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction._
