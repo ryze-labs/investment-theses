@@ -94,7 +94,7 @@ Jet protocol was announced in April 2021 by founders [@wilbarnes](https://twitte
 
 **Efficient, user first dev cycle**
 
-The Jet team is passionate about open source collaboration and user feedback. Originally building on the Solana token lending program ([https://github.com/solana-labs/solana-program-library/tree/master/token-lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending)) the team realized that open source was important but needed a faster, iterative dev cycle over simply pushing changes to an existing repository. As such, the Jet team completely refactored the lending model in Anchor. For more info check out their Github: [https://github.com/jet-lab.](https://github.com/jet-lab.)
+The Jet team is passionate about open source collaboration and user feedback. Originally building on the Solana token lending program ([https://github.com/solana-labs/solana-program-library/tree/master/token-lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending)) the team realized that open source was important but needed a faster, iterative dev cycle over simply pushing changes to an existing repository. As such, the Jet team completely refactored the lending model in Anchor. For more info check out their Github: [https://github.com/jet-lab](https://github.com/jet-lab/).
 
 **Features and roadmap**
 
