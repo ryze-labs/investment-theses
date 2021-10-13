@@ -83,7 +83,7 @@ Solana reigns supreme on transaction cost vs. validation and is a prime candidat
 
 Taking Solana, Binance Smart Chain and Polkadot as recent popular DeFi chains, we see the true payoffs for sacrificing decentralization:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*pCAi36ej3bS4vQ_F" width="700" height="485"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/2400/1*pOtVzfkKP1OyQjeiGK90xQ.png" width="700" height="485"/>
 
 It’s clear that Solana is the best candidate for building fast DeFi applications. However before this can happen, some basic infrastructure needs to be in place. Serum provided the plumbing necessary for settlement — what is needed as a next step is a core lending protocol which can put Solana assets to work via lending, expand into new products and bridge to other chains. Enter Jet.
 
