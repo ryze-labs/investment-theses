@@ -116,7 +116,7 @@ Jet will introduce a series of complex structured risk products on Solana, reali
 
 >[https://github.com/wilbarnes/solana-structured-products](https://github.com/wilbarnes/solana-structured-products)
 
-The team went on to describe illustrate some examples of more complex strategies that require the speed and low cost of execution of an interconnected arbitrage hub like Jet:
+The team went on to illustrate some examples of more complex strategies that require the speed and low cost of execution of an interconnected arbitrage hub like Jet:
 
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*fJWA90fWMiF0rVR3" width="700" height="516"/>
 
@@ -127,13 +127,13 @@ Jet is leading the way in bringing products above and beyond the standard of Tra
 **Solving issues in DeFi**
 ==========================
 
-As explained above many of the issues with current DeFi lending stem from slow transaction speed, price discovery and computation. Leveraging Solana’s Solana’s raw computational power with innovative and fast oracle solutions, Jet will provide better liquidity management, more innovative dynamic pricing from higher market data ingestion, and the ability to handle liquidations more gracefully via sequencing and confidence analysis of available liquidity during times of stress. All of which are infeasible on Ethereum. These speed improvements provide further tangible benefits like tackling the high collateralization requirements: Jet will introduce dynamic collateralization ratio pricing, allowing ratios to be adjusted based on the level of volatility in the system, meaning during periods of low volatility, collateralization ratios can fall to more reasonable levels, freeing up capital and reducing the burden of borrowing. As explained by Jet: “To put it plainly, with Solana’s throughput, the protocol can ingest data quicker, rendering price and interest updates more frequently during times of market volatility, propagating actionable data across the network to all market participants in seconds. And inversely, during periods of inactivity, the protocol relaxes.”
+As explained above many of the issues with current DeFi lending stem from slow transaction speed, price discovery and computation. Leveraging Solana’s raw computational power with innovative and fast oracle solutions, Jet will provide better liquidity management, more innovative dynamic pricing from higher market data ingestion, and the ability to handle liquidations more gracefully via sequencing and confidence analysis of available liquidity during times of stress. All of which are infeasible on Ethereum. These speed improvements provide further tangible benefits like tackling the high collateralization requirements: Jet will introduce dynamic collateralization ratio pricing, allowing ratios to be adjusted based on the level of volatility in the system, meaning during periods of low volatility, collateralization ratios can fall to more reasonable levels, freeing up capital and reducing the burden of borrowing. As explained by Jet: “To put it plainly, with Solana’s throughput, the protocol can ingest data quicker, rendering price and interest updates more frequently during times of market volatility, propagating actionable data across the network to all market participants in seconds. And inversely, during periods of inactivity, the protocol relaxes.”
 
 The faster oracle feeds and pricing mechanisms offered by Jet are leveraged to lower collateralization ratios for some assets. On that alone, Jet can directly compete with higher cRatio protocols like Compound etc, allowing for greater capital efficiency.
 
 Given its ability to leverage the Serum ecosystem, liquidations on Jet are more orderly and allow for more control than a standard liquidation bot. Liquidation is essentially paying down debt then liquidating collateral and, naturally, there are cases when liquidators may not want to be stuck with the liquidated asset on their books. Using Serum as a backend to push or swap (Anchor Serum Swap) liquidations, the liquidator can immediately change back to the original asset used to pay the debt, at a low cost, essentially enabling risk free liquidation.
 
-While there are fees for swapping, while already low, Jet wants to incentivize all stakeholders in the protocol and thus may introduce MSRM holder fee rebates in the future.
+Swapping transactions incur a fee, though quite low, so to incentivize all stakeholders in the protocol; Jet may introduce MSRM holder fee rebates in the future.
 
 **All roads lead to Jet**
 =========================
