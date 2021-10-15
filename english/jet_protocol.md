@@ -237,7 +237,7 @@ Most JET tokens are locked up for a long time (3 years), which leads to well-ali
 *   3.06% of tokens to Ascendex IEO + trading capital for market maker, 100% unlocked at TGE.
 *   25.47% of tokens are under control of the DAO, 3% unlocked at TGE and the rest vesting linearly for 24 months. The rationale for lower % TGE unlock here is to prevent governance attack of DAO tokens. 21.47% of tokens are reserved for direct project contributors, the “dev fund”, 25% unlocked at TGE and the rest vesting linearly for 24 months.
 
-Jet are building a resilient, durable lending protocol and Sino is ecstatic to be supporting the Jet team and community. For more info on tokenomics see [https://medium.com/jetprotocol/jet-tokenomics-lockup-and-our-long-term-vision-430a1fbe119f.](https://medium.com/jetprotocol/jet-tokenomics-lockup-and-our-long-term-vision-430a1fbe119f.)
+Jet are building a resilient, durable lending protocol and Sino is ecstatic to be supporting the Jet team and community. For more info on tokenomics see [https://medium.com/jetprotocol/jet-tokenomics-lockup-and-our-long-term-vision-430a1fbe119f.](https://medium.com/jetprotocol/jet-tokenomics-lockup-and-our-long-term-vision-430a1fbe119f)
 
 **Conclusion**
 ==============
