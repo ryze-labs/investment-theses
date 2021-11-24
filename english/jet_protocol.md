@@ -150,7 +150,7 @@ Interest rate differences will be priced in terms of interest bearing tokens (e.
 
 The speed of execution provided by Jet combined with the necessary cross chain channels incentivizes liquidity provision on the protocol and the greater Solana ecosystem as a whole. What’s more, these users can leverage the existing tools of the ecosystem (e.g. Serum, Raydium) to optimize their strategies, e.g. lenders can sell their lending tokens (given on deposit of assets on protocol) on the Serum DEX. The efficient pricing of opportunities this creates will have positive impacts for the industry as a whole and bring further growth to Solana.
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/1*SvatyxjwBcKpI16YaGXNcg.png" width="700" height="472"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/1*SvatyxjwBcKpI16YaGXNcg.png" max-width="700" max-height="472"/>
 
 **Ease of use**
 
