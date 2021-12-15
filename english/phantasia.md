@@ -65,7 +65,7 @@ The most obvious advantage is utilizing Solana as a payment method and a transac
 
 Phantasia also has very strong tokenomics planned revolving around it’s $FANT token. Utilizing tokens to incentivize all stakeholders to coordinate towards a shared direction is very important to a project’s success.
 
-**Plat-To-Earn Contests**
+**Play-To-Earn Contests**
 
 To bootstrap Phantasia’s initial user base, Phantasia designed Play-To-Earn (P2E) Contests.
 
