@@ -43,7 +43,7 @@ This has led developers to search for other solutions. According to DappRadar’
 
 However, it is notable that users seem willing to give up some decentralization for more speed in their DeFi apps. According to the report, many individual BSC Dapps overcame top Ethereum competitors in recent months:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*boI7CmFobG5W83eK" width="700" height="433"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*boI7CmFobG5W83eK" max-width="700" max-height="433"/>
 
 >Source: DappRadar and Defistation.io
 
@@ -83,7 +83,7 @@ Solana reigns supreme on transaction cost vs. validation and is a prime candidat
 
 Taking Solana, Binance Smart Chain and Polkadot as recent popular DeFi chains, we see the true payoffs for sacrificing decentralization:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/2400/1*pOtVzfkKP1OyQjeiGK90xQ.png" width="700" height="485"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/2400/1*pOtVzfkKP1OyQjeiGK90xQ.png" max-width="700" max-height="485"/>
 
 It’s clear that Solana is the best candidate for building fast DeFi applications. However before this can happen, some basic infrastructure needs to be in place. Serum provided the plumbing necessary for settlement — what is needed as a next step is a core lending protocol which can put Solana assets to work via lending, expand into new products and bridge to other chains. Enter Jet.
 
@@ -118,7 +118,7 @@ Jet will introduce a series of complex structured risk products on Solana, reali
 
 The team went on to illustrate some examples of more complex strategies that require the speed and low cost of execution of an interconnected arbitrage hub like Jet:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*fJWA90fWMiF0rVR3" width="700" height="516"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*fJWA90fWMiF0rVR3" max-width="700" max-height="516"/>
 
 >[https://github.com/wilbarnes/solana-structured-products](https://github.com/wilbarnes/solana-structured-products)
 
@@ -158,31 +158,31 @@ A common dilemma for DeFi application developers is on how much of the complex b
 
 **Cockpit —** View all assets and explore details and use deposit, withdraw, borrow & repay functions. Competing protocols often have an overload of information and can be daunting for new users. In Jet’s “Cockpit” we see a simple summary of funds deposited, borrowed and an overview of your current collateralization:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*0o3ZoSFU2ydSjLNs" width="700" height="369"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*0o3ZoSFU2ydSjLNs" max-width="700" max-height="369"/>
 
 </br>
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/896/0*6AzJpmKqxKLzdrjl" width="448" height="554"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/896/0*6AzJpmKqxKLzdrjl" max-width="448" max-height="554"/>
 
 Copilot steps in when it finds any errors:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/678/0*COw6B3lQ4u0jlzA8" width="339" height="329"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/678/0*COw6B3lQ4u0jlzA8" max-width="339" max-height="329"/>
 
 **Deposit and borrow:**
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1088/0*UhPBnTHASnYPIDFp" width="544" height="636"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1088/0*UhPBnTHASnYPIDFp" max-width="544" max-height="636"/>
 
 </br>
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1088/0*Ex1C8-VrJjb84f12" width="544" height="636"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1088/0*Ex1C8-VrJjb84f12" max-width="544" max-height="636"/>
 
 **Clear and simple UX—** You’ve deposited DAI and want some back? Click redeem:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*Lpz76-obV0yz3UL2" width="700" height="434"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*Lpz76-obV0yz3UL2" max-width="700" max-height="434"/>
 
 Also a dark mode for accessibility:
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*jF77KecMLkpUlpOL" width="700" height="370"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*jF77KecMLkpUlpOL" max-width="700" max-height="370"/>
 
 **Co-pilot: simplifying DeFi**
 ==============================
@@ -196,7 +196,7 @@ Overview and long term goals:
 *   Once confirmed with the click of a button, the back-end will execute a number of trades depending on recommendation.
 *   May deploy to highest APYs based on deposits, recommend whether to deposit assets or repay debt to bring collateralization back in the green.
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1344/0*lsxtw74Q4qTbqU8O" width="672" height="472"/>
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1344/0*lsxtw74Q4qTbqU8O" max-width="672" max-height="472"/>
 
 *   Co-Pilot is a manifestation of a key belief of the team: How can Jet help in maintaining financial wellbeing of users?
 *   Long term will be a fully automated AI function on top of Jet.
