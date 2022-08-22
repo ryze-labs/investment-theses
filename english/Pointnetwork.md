@@ -31,25 +31,25 @@ Well…quite a lot actually.
 
 Typically when a user makes a transaction on a dApp, the frontend prepares the transaction for the user based on input seen in frontend text fields like “amount” or “price” “destination address” etc… But a compromised frontend could simply discard these fields and format a transaction that drains the user’s wallet. The hexadecimal output looks like gibberish whether it’s legitimate or not, so it’s a pretty good attack vector.
 
-![Screen Shot 2022-08-16 at 5.29.24 PM.png](Why%20We%20Invested%20in%20Point%20Network%2081809d76fce14d71a19b4c13a298fe89/Screen_Shot_2022-08-16_at_5.29.24_PM.png)
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_5.29.24 PM.png">
 
 **First Solution: Permastorage Deployments**
 
 One solution is to use content-based addressing like IPFS or Arweave. Uniswap currently does this with IPFS and a service called DNSLink.
 
-![Screen Shot 2022-08-16 at 5.55.31 PM.png](Why%20We%20Invested%20in%20Point%20Network%2081809d76fce14d71a19b4c13a298fe89/Screen_Shot_2022-08-16_at_5.55.31_PM.png)
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_5.55.31 PM.png">
 
 This is good in that you remove a lot of attack surface associated with hosted frontends, but at the end of the day, the DNS record infrastructure is still fragmented and theoretically not invulnerable, and the IPFS or Arweave gateway of choosing is still a server living somewhere that could be exploited.
 
 The other key issue is that users don’t know which link is canonical in a web2 browser experience. Even if “mydex.app.xyz” resolves to a nice permastorage solution which is usually quite secure (though not guaranteed), nothing can be done if a user ends up at “app.mydex.xyz” which is a 1:1 copy of the real website, but whose UI generates malicious transactions for the user. This sounds far-fetched, but certainly isn’t without precedent:
 
-![Screen Shot 2022-08-16 at 6.14.24 PM.png](Why%20We%20Invested%20in%20Point%20Network%2081809d76fce14d71a19b4c13a298fe89/Screen_Shot_2022-08-16_at_6.14.24_PM.png)
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_6.14.24_PM.png">
 
 ## Solution:
 
 Point Network’s flagship product is Point Browser. It’s a fork of firefox that also runs a local proxy server under the hood to resolve “point domains” to arweave records, pull the content, verify it locally, and serve it to users either directly or via a templating engine which is similar to jinja but built for decentralized content living on an arbitrary blockchain.
 
-![Screen Shot 2022-08-16 at 6.47.13 PM.png](Why%20We%20Invested%20in%20Point%20Network%2081809d76fce14d71a19b4c13a298fe89/Screen_Shot_2022-08-16_at_6.47.13_PM.png)
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_6.47.13_PM.png">
 
 ### Features:
 
@@ -61,7 +61,7 @@ Point Network’s flagship product is Point Browser. It’s a fork of firefox th
 
 Below is a screenshot from the early development branch, showing a name registered as @twitter, but illustrates a core use-case well:
 
-![Screen Shot 2022-08-16 at 7.01.09 PM.png](Why%20We%20Invested%20in%20Point%20Network%2081809d76fce14d71a19b4c13a298fe89/Screen_Shot_2022-08-16_at_7.01.09_PM.png)
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_7.01.09_PM.png">
 
 Imagine you want to know which website is canonical for any given decentralized application. You can simply navigate to the “identities” page, verify that the domain matches the correct public key (via some social layer), and navigate directly to the associated root directory which contains the dApp’s website. You know that the results are real because the contents have been verified by the point browser and all of the linking from identity ←→ webpage are stored canonically on-chain.
 
