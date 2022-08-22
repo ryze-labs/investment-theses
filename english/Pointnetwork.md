@@ -24,7 +24,7 @@ Then the transaction is sent either to some service provider like infura/alchemy
 
 **So what can go wrong?**
 
-<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_5.20.17_PM.png">
+<img widhth="400px" src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_5.20.17_PM.png">
 
 
 Well…quite a lot actually.
