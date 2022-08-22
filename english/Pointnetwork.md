@@ -14,7 +14,7 @@ Point Network is a novel attempt at remedying this last-leg distribution problem
 
 For context, let’s consider the journey of a user interacting with a typical decentralized exchange.
 
-![Screen Shot 2022-08-16 at 4.51.52 PM.png](Why%20We%20Invested%20in%20Point%20Network%2081809d76fce14d71a19b4c13a298fe89/Screen_Shot_2022-08-16_at_4.51.52_PM.png)
+<img src="https://raw.githubusercontent.com/sinoglobalcap/investment-theses/main/static/img/pointnetwork/Screen_Shot_2022-08-16_at_4.51.52_PM.png">
 
 Users resolve a URL like “mydex.xyz” into an IP address “1.2.3.4” via a DNS service provided by a local ISP (trusted). Then the user basically tells the internet “give me whatever is living at 1.2.3.4” (trusted). 
 
