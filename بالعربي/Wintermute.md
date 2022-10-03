@@ -30,7 +30,8 @@
 
 <img align="right" src="https://miro.medium.com/max/3000/1*5eIUxfTQI5IXWoY8zpVQFw.png" alt="1" width="800px">
 
->مصدر الصورة: Wintermute
+> مصدر الصورة: Wintermute
+
 <br>
 
 ## كيف يحقق صناع السوق الأرباح؟
