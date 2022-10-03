@@ -31,7 +31,7 @@
 <p align="right">
 <img src="https://miro.medium.com/max/3000/1*5eIUxfTQI5IXWoY8zpVQFw.png" alt="1" width="800px">
 
-  <i style="color:#545454">>مصدر الصورة: Wintermute</i>
+  <i style="color:#545454">مصدر الصورة: Wintermute</i>
 </p>
 
 <br>
