@@ -3,9 +3,9 @@ title: Solana
 sidebar_position: 1
 ---
 
-# Why we are bullish on Solana
+# 我们为何投资 Solana
 
-Not investment advice.
+不构成理财建议。
 
 ## Introduction
 
