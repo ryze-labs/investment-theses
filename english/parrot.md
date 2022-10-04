@@ -1,3 +1,7 @@
+---
+title: Parrot Protocol
+---
+
 Why we invested in Parrot Protocol
 ==================================
 

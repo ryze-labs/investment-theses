@@ -1,3 +1,7 @@
+---
+title: Delta Exchange
+---
+
 # Why we invested in Delta Exchange
 
 Not financial advice.

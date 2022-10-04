@@ -1,3 +1,7 @@
+---
+title: Zignaly
+---
+
 # Why we invested in Zignaly
 
 Not financial advice.

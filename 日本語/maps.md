@@ -1,3 +1,8 @@
+---
+title: Maps.me
+sidebar_position: 2
+---
+
 Why we invested in Maps.me 日本語訳
 ===============================
 

@@ -1,3 +1,7 @@
+---
+title: Maps.me
+---
+
 # Why we invested in Maps.me
 
 Not financial advice.

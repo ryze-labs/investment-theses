@@ -1,3 +1,7 @@
+---
+title: Mask Network
+---
+
 # Why we invested in Mask Network
 
 Not financial advice.

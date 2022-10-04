@@ -1,3 +1,7 @@
+---
+title: Wintermute
+---
+
 # Why we invested in Wintermute
 
 Not investment advice

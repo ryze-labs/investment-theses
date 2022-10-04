@@ -1,3 +1,8 @@
+---
+title: Mercurial Finance
+sidebar_position: 2
+---
+
 Why we invested in Mercurial Finance 日本語訳
 =========================================
 

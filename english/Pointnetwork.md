@@ -1,3 +1,7 @@
+---
+title: Point Network
+---
+
 # Why We Invested in Point Network
 
 ## Introduction:

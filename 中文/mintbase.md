@@ -1,3 +1,8 @@
+---
+title: Mintbase
+sidebar_position: 2
+---
+
 我们为何投资 Mintbase
 ===============
 

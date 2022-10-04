@@ -1,3 +1,8 @@
+---
+title: Serum
+sidebar_position: 2
+---
+
 Why we invested in Project Serum 日本語訳
 =====================================
 

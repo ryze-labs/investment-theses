@@ -1,3 +1,7 @@
+---
+title: Phantasia
+---
+
 Why we invested in Phantasia
 ============================
 

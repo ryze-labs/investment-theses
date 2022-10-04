@@ -1,4 +1,9 @@
-我们为何投资**Impossible Finance**
+---
+title: Impossible Finance
+sidebar_position: 2
+---
+
+我们为何投资 Impossible Finance
 ============================
 
 非理财建议。

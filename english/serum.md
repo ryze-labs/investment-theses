@@ -1,3 +1,7 @@
+---
+title: Project Serum
+---
+
 # Why we invested in Project Serum
 
 Not financial advice.

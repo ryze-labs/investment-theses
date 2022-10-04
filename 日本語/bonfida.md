@@ -1,3 +1,8 @@
+---
+title: Bonfida
+sidebar_position: 2
+---
+
 Why we invested in Bonfida 日本語訳
 ===============================
 

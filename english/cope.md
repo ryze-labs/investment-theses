@@ -1,3 +1,7 @@
+---
+title: Cope
+---
+
 # Why we invested in Cope
 
 Not financial advice.

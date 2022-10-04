@@ -1,3 +1,7 @@
+---
+title: Bonfida
+---
+
 # Why we invested in Bonfida
 
 Not financial advice

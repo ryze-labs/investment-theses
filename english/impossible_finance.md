@@ -1,3 +1,7 @@
+---
+title: Impossible Finance
+---
+
 Why we invested in Impossible Finance
 =====================================
 

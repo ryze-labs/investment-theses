@@ -1,3 +1,7 @@
+---
+title: Mercurial Finance
+---
+
 # Why we invested in Mercurial Finance
 
 Not financial advice.

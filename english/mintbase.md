@@ -1,3 +1,7 @@
+---
+title: Mintbase
+---
+
 # Why we invested in Mintbase
 
 Not financial advice.

@@ -1,3 +1,7 @@
+---
+title: Zapper
+---
+
 # Why we invested in Zapper
 
 Not financial advice.

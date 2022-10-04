@@ -1,3 +1,7 @@
+---
+title: LayerZero Labs
+---
+
 # Why we invested in LayerZero Labs
 =====================================
 

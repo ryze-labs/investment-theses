@@ -1,3 +1,7 @@
+---
+title: Jet Protocol
+---
+
 # Why we invested in Jet Protocol
 ===================================
 
