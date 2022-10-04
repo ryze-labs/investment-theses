@@ -1,0 +1,14 @@
+{
+  "item.label.Docs": {
+    "message": "أطروحاتنا الاستثمارية",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "المدونة",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
