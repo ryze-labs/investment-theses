@@ -2,7 +2,7 @@
 
 Not financial advice.
 
-<br>
+
 
 ## A Billion Person Vision for Blockchain
 
@@ -17,10 +17,10 @@ In the interim years of 2018 and 2019 (and some earlier as well), hard-working t
 
 In 2020, Sam and the Serum and Solana teams laid out a vision of where this industry could go and dared us all to think bigger. Their vision lays out an “end game” where a highly scalable and performant blockchain (Solana), along with clearly differentiated primitives, are leveraged to bring products to large masses of users. Not just DeFi products, but products that span payments, social networks, media, etc. **No longer were we targeting 1 million users; that vision was expanded to 1 billion users and an on-chain value of $10 trillion**.
 
-<img src="https://miro.medium.com/max/3000/0*eDsrhbnn2_CUgqy4" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/0*eDsrhbnn2_CUgqy4" alt="1" width="800px" />
 
 ><em class="kc">DeFi TVL compared to traditional markets is small, but growing. However, the Solana/Serum vision extends to payments, social media, and other “mass appeal” applications as well.</em>
-<br>
+
 
 ## Enter Project Serum
 
@@ -38,7 +38,7 @@ As Sam, a founding partner at the Serum foundation, said:
 
 In the following sections, we will highlight key advantages that Serum has, many of which are related to the design space unlocked by Solana, as well as possible disadvantages.
 
-<br>
+
 
 ## Key Advantages: Orderbook design allows greater capital efficiency
 
@@ -53,7 +53,7 @@ Currently, the majority of liquidity provided for decentralized trades comes in 
 
 However, as we have seen, Uniswap works well (and is getting better with <a href='https://uniswap.org/whitepaper-v3.pdf' target='_blank'>V3</a>) and processes an average of ~$1B in volume per day. Uniswap and AMM structures have a place in the future of crypto, but we see their long-term value as helping early stage projects bootstrap liquidity or facilitating stablecoin trades. To grow to 1B on-chain users, however, we need a tried-and-tested structure that can reliably provide efficient liquidity on that scale — orderbooks.
 
-<img src="https://miro.medium.com/max/3000/0*Zrny4YMKzFAg63gZ" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/0*Zrny4YMKzFAg63gZ" alt="2" width="800px" />
 
 ><em class="kc">Daily DEX volume has recently been below $3B, versus peak volumes in the $200B range for CEX, and $558B for US Equities Market Volume. Source: </em><a class="ds kd" href="https://duneanalytics.com/queries/4388/8550" rel="noopener nofollow"><em class="kc">https://duneanalytics.com/queries/4388/8550</em></a>
 
@@ -70,7 +70,7 @@ Orderbooks make these improvements possible because:
 
 AMMs were the best method of liquidity provision that could be supported within the current limitations of widely used L1s. Solana, and the new design space created by its high-performance, now enables central limit orderbooks to function as a key primitive that can help unlock liquidity needed to accommodate the scale of transactions seen in traditional markets.
 
-<br>
+
 
 ## Key Advantages: Composability allows protocols to begin building with a fully fledged financial infrastructure
 
@@ -82,7 +82,7 @@ Contrast this with the data silos and legacy IT infrastructure in TradFi that ha
 
 No time is wasted on reiterating what has already been built; founders can focus on the innovation and development of their specific application.
 
-<img src="https://miro.medium.com/max/3000/0*EoQXeZ_ZkyNU8F6l" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/0*EoQXeZ_ZkyNU8F6l" alt="3" width="800px" />
 
 ><em class="kc">Serum, a key building block that leverages the Solana L1, powers numerous applications that compose with Serum’s CLOB.</em>
 
@@ -100,19 +100,16 @@ Imagine a world where all your financial needs can be accessed and serviced dire
 
 Serum’s composability opens up a world of possibilities, effectively expanding the opportunity set to all aspects of finance and beyond. This allows protocols to focus on customizing their offering to their specific niche market and creating the best product possible, while Serum does the heavy-lifting in the back-end.
 
-<br>
 
 ## Key Advantages: Solana performance
 
 The Solana blockchain provides the infrastructure necessary to support Serum and allow for its key advantages. Solana has: scalability (50K TPS/subsecond global state finality), low costs (avg. txs fee is $0.0007), composability (high performance without layer 2s/sharding), top tier ecosystem partners, and decentralization and security.
 
-<img src="https://miro.medium.com/max/3000/0*b66VHobTT5q1Timr" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/0*b66VHobTT5q1Timr" alt="4" width="800px" />
 
 ><em class="kc">The high-performance of Solana makes it a natural L1 to support mass appeal applications</em>
 
-Read our full investment thesis on Solana here:<a href='/why-we-are-bullish-on-solana-c2be784cfdf6' target='_blank'> https://sinoglobalcap.medium.com/why-we-are-bullish-on-solana-c2be784cfdf</a>.
-
-<br>
+Read our full investment thesis on Solana [here](solana.md).
 
 ## Key Disadvantages
 
@@ -130,16 +127,16 @@ While the Rust barrier may constrain growth in the short-term, we believe long-t
 
 **Speed** — Serum is currently one of the fastest DEXs with 400ms transaction speeds, and future plans to more than halve this to 150ms in the coming years as Solana is optimized. For a public decentralized blockchain, this speed is phenomenal. However, compared to centralized TradFi counterparts in applications like high frequency trading, the Serum/Solana ecosystem is slower given physical limitations of being a globally distributed network of nodes. Accordingly, some TradFi applications will stay centralized while Serum/Solana services a large user base attracted by the metrics of decentralization and who do not require the absolute highest tier of speed.
 
-<img src="https://miro.medium.com/max/3000/0*Iap-I0kL2Y8JimQg" alt="5" width="800px">
+<img src="https://miro.medium.com/max/3000/0*Iap-I0kL2Y8JimQg" alt="5" width="800px" />
 
 ><em class="kc">When measured purely on speed, Serum has too high a latency to support some TradFi institutional use cases. However, it is ideal for applications with lesser speed requirements and/or those that operate better with near instant settlement. Additionally, it is important to note that even some equities and derivatives trading (for example, Robinhood-type platforms) are not very latency sensitive.</em>
-<br>
+
 
 ## Roadmap
 
 Serum is currently in Phase 3 of their roadmap. Phase 3 has a focus on igniting the Serum ecosystem while also adding necessary infrastructure to expand the addressable market, like more cross-chain bridges. More info: <a href='https://projectserum.com/#/roadmap' target='_blank'>https://projectserum.com/#/roadmap</a>.
 
-<br>
+
 
 ## Governance/Team
 
@@ -151,16 +148,16 @@ SRM stakers are organized around nodes, and these nodes in turn have voting righ
 
 Recently, Serum also launched its governance voting program, which is an upgradeable program governed by a multisig that can upgrade itself. This is a first step into making Serum’s governance more decentralized, transparent and secure. More info: <a href='https://github.com/project-serum/multisig' target='_blank'>https://github.com/project-serum/multisig</a>.
 
-<img src="https://miro.medium.com/max/3000/0*h5wt0dHxBX4ZR8S1" alt="6" width="800px">
+<img src="https://miro.medium.com/max/3000/0*h5wt0dHxBX4ZR8S1" alt="6" width="800px" />
 
 ><em class="kc">Serum node list. Source: </em><a class="ds kd" href="https://twitter.com/ProjectSerum/status/1312176559185301504" rel="noopener nofollow">https://twitter.com/ProjectSerum/status/1312176559185301504</a>
-<br>
+
 
 ## Ecosystem Development
 
 
 
-<img src="https://miro.medium.com/max/3000/0*VHh8oSn4-dFOSbqh" alt="7" width="800px">
+<img src="https://miro.medium.com/max/3000/0*VHh8oSn4-dFOSbqh" alt="7" width="800px" />
 
 ><em class="kc">The high-performance of the Solana blockchain unlocks additional “design space” which allows better primitives to be built, like Serum. This performance initiates a positive feedback loop that could result in mass appeal applications clustering around the Solana/Serum ecosystem.</em>
 
@@ -176,13 +173,12 @@ By any metric the Serum/Solana ecosystem has proven to be healthy, growing, and 
 - An exciting cross-chain bridge, Wormhole(https://twitter.com/solana/status/1357539833980153859)
 - Key primitives and adjacent infrastructure are being (or have been) released on Solana.
 
-<img src="https://miro.medium.com/max/3000/0*g0yOAFuWISP0EwQB" alt="8" width="800px">
+<img src="https://miro.medium.com/max/3000/0*g0yOAFuWISP0EwQB" alt="8" width="800px" />
 
 ><em class="kc">In a short amount of time, the Serum/Solana ecosystem has exploded; while not all projects listed directly interact with Serum, most do. Source: </em><a class="ds kd" href="https://twitter.com/solanians_/status/1402843464841064451/photo/1" rel="noopener nofollow"><em class="kc">https://twitter.com/solanians_/status/1402843464841064451</em></a>
 
 We also recommend checking out <a href='https://pentacle.ai/solana' target='_blank'>https://pentacle.ai/solana</a> for a great depiction of the Solana ecosystem.
 
-<br>
 
 ## Ecosystem — Projects building and composing with Serum
 
@@ -195,7 +191,7 @@ Below we “deep dive” into some projects that have integrated or build on Ser
 There are <a href='https://docs.projectserum.com/serum-ecosystem/built-on-serum' target='_blank'>multiple</a> Serum DEX GUIs with diverse ancillary feature offerings and customized trading experiences. GUI hosters are incentivized by the opportunity to earn a portion of the resulting DEX fees. In turn, Serum benefits from the varying channels of new liquidity.
 
 
-Read our Bonfida investment thesis here: <a href='/why-we-invested-in-bonfida-49216b5a0425' target='_blank'>https://sinoglobalcap.medium.com/why-we-invested-in-bonfida-49216b5a0425</a>.
+Read our Bonfida investment thesis here: <a href='https://sinoglobalcap.medium.com/why-we-invested-in-bonfida-49216b5a0425' target='_blank'>https://sinoglobalcap.medium.com/why-we-invested-in-bonfida-49216b5a0425</a>.
 
 
 <a href='https://mango.markets/' target='_blank'>Mango Markets</a> seeks to create a trader and maker friendly decentralized trading platform, starting with on-chain margin trading (on Serum’s central limit orderbooks) as well as perpetual futures.
@@ -212,17 +208,17 @@ These gamers often resort to transacting on third-party marketplaces, not knowin
 
 <a href='https://www.oxygen.org/' target='_blank'>Oxygen</a> is a decentralized prime brokerage focusing on collateralized lending/borrowing. Lending protocols have been a staple of DeFi for years with a core demographic being niche crypto traders, but Oxygen has a strategy to scale to hundreds of millions of retail users via direct integration with Maps.me (100M+ users). Users will be able to earn passive interest on their portfolio or borrow cash against their existing positions. Built with a performance-first approach, Oxygen has a suite of professional features for leverage, shorting, options writing, and structured products.
 
-<img src="https://miro.medium.com/max/3000/1*9_v0Bsu9jUoMUOzC_FSmiw.png" alt="9" width="800px">
+<img src="https://miro.medium.com/max/3000/1*9_v0Bsu9jUoMUOzC_FSmiw.png" alt="9" width="800px" />
 
 ><em class="kc">Oxygen will use Serum as a building block to achieve their vision of being an on-chain prime broker with borrow/lend, yield generation, and structured products production.</em>
 
-Read our Oxygen investment thesis here: <a href='/why-we-invested-in-oxygen-a17a17722e12' target='_blank'>https://sinoglobalcap.medium.com/why-we-invested-in-oxygen-a17a17722e12</a>.
+Read our Oxygen investment thesis here: <a href='https://sinoglobalcap.medium.com/why-we-invested-in-oxygen-a17a17722e12' target='_blank'>https://sinoglobalcap.medium.com/why-we-invested-in-oxygen-a17a17722e12</a>.
 
 
 <a href='https://mercurial.finance/' target='_blank'>Mercurial Finance</a> uses dynamic market making vaults to provide low slippage swaps for stablecoins, while also improving liquidity provider yields by optimizing capital returns across various strategies. Mercurial will be deeply integrated with Serum, tapping into its orderbook flows and liquidity to reduce slippage and boost transactions on both protocols.
 
 
-Read our Mercurial Finance investment thesis here:<a href='/why-we-invested-in-mercurial-finance-76550a47c269' target='_blank'>https://sinoglobalcap.medium.com/why-we-invested-in-mercurial-finance-76550a47c269</a>.
+Read our Mercurial Finance investment thesis here:<a href='https://sinoglobalcap.medium.com/why-we-invested-in-mercurial-finance-76550a47c269' target='_blank'>https://sinoglobalcap.medium.com/why-we-invested-in-mercurial-finance-76550a47c269</a>.
 
 
 Options minted on <a href='https://psyoptions.io/' target='_blank'>Psyoptions</a> are represented as SPL tokens to allow composability such as trading options on Serum orderbooks. Users will be able to write and trade options on their dapp, which will be integrated directly with Serum orderbooks.
@@ -241,7 +237,7 @@ Raydium and Serum are synergistic in numerous ways. For example:
 
 Want to contribute to the Serum ecosystem? Look through some project ideas from the Serum Docs:<a href='https://docs.projectserum.com/serum-ecosystem/building-on-our-vision/ideas-for-projects' target='_blank'>https://docs.projectserum.com/serum-ecosystem/building-on-our-vision/ideas-for-projects</a>.
 
-<br>
+
 
 ## Tokenomics
 
@@ -271,13 +267,13 @@ Buy and Burn — The key mechanism to increasing the value of $SRM is a buyback-
 
 Furthermore, other than buy and burn, we see the utility of $SRM driving significant demand: fee reduction, staking, platform fee payment, and governance.
 
-<img src="https://miro.medium.com/max/3000/0*iQ_oDPlSpsyviUAP" alt="10" width="800px">
+<img src="https://miro.medium.com/max/3000/0*iQ_oDPlSpsyviUAP" alt="10" width="800px" />
 
 >SRM burn metrics at time of writing.
 
 Roughly 50M out of 10B tokens are currently unlocked and circulating with the first large unlock in August 2021. Notably, a large proportion of the unlock is related to ecosystem and partnership related tokens.
 
-<img src="https://miro.medium.com/max/3000/0*LRxk_FJtYVdtDCT_" alt="11" width="800px">
+<img src="https://miro.medium.com/max/3000/0*LRxk_FJtYVdtDCT_" alt="11" width="800px" />
 
 ><em class="kc">Serum’s 7-year unlock schedule maximizes long-term incentives for stakeholders. Source: </em><a class="ds kd" href="https://projectserum.com/#/srm-token-summary" rel="noopener nofollow"><em class="kc">https://projectserum.com/#/srm-token-summary</em></a>
 
@@ -286,7 +282,7 @@ Modeling supply and demand dynamics with cryptocurrencies is notoriously difficu
 
 Note: We are highlighting this model because we think it is a valuable contribution to the ecosystem, but we do not back any model assumptions (and would encourage you to update assumptions) and/or price predictions and encourage you to do your own research.
 
-<img src="https://miro.medium.com/max/3000/1*2tGGfnThZXCl5lwAezCtJg.png" alt="12" width="800px">
+<img src="https://miro.medium.com/max/3000/1*2tGGfnThZXCl5lwAezCtJg.png" alt="12" width="800px" />
 
 ><em class="kc">Coinmonks Buyback/Flow Model Framework. Source: </em><a class="ds kd" href="https://medium.com/coinmonks/buyback-flow-model-a-way-to-model-crypto-buybacks-through-the-srm-case-study-cf8ca92a0e2f" rel="noopener"><em class="kc">https://medium.com/coinmonks/buyback-flow-model-a-way-to-model-crypto-buybacks-through-the-srm-case-study-cf8ca92a0e2f</em></a>
 
@@ -295,7 +291,7 @@ Using the Coinmonks model with their 2027 average implied price per token versus
 
 Over time, as Serum becomes a key building block for 1 billion users via numerous on-chain products, we expect buying pressure to increase significantly while supply stagnates after full unlock.
 
-<br>
+
 
 ## Conclusion
 

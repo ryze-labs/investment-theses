@@ -1,4 +1,4 @@
-**Why we invested in LayerZero Labs**
+# Why we invested in LayerZero Labs
 =====================================
 
 Not financial advice.

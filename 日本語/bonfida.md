@@ -3,15 +3,12 @@ Why we invested in Bonfida 日本語訳
 
 Thanks to Softgate Limited for Translation ([original post](https://softgate-limited.medium.com/why-we-invested-in-bonfida-japanese-aca2091bdabc))
 
-</br>
 
 _本記事は、Sino Global Capital 社の_ [_Why we invested in Bonfida_](https://sinoglobalcap.medium.com/why-we-invested-in-bonfida-49216b5a0425) _という記事を、Sino Global Capital 社の許諾を受けて、日本語訳したものです。翻訳を快く許諾してくださった Sino Global Capital 社に感謝いたします。_
 
 _なお、本記事で提示するデータおよび考察は、翻訳時に混入した誤りを除き、更新／修正／改良の予定はありません。_
 
 本記事は投資助言を意図するものではありません。
-
-</br>
 
 イントロダクション
 =========
@@ -20,14 +17,12 @@ Bonfida DEX は Serum で取引するためのシームレスな GUI（グラフ
 
 2018 年にブロックチェーンエコシステムは大切な教訓を学びました: 分散型アプリケーション (DApp) が広く普及するには、中央集権型の同種のアプリよりも優れた UX を提供する必要があるということです。簡単に言えば、普及を促進するためには、分散型ソリューションは優れた UI/UX とともに提供されなければなりません。
 
-</br>
-
 Serum と DEX
 ===========
 
 この一年で、DeFi に対する関心とその利用が大幅に増加しましたが、その多くは Uniswap のような分散型取引所 (DEX) に集中しています。Serum ([https://projectserum.com/](https://projectserum.com/)) は、信頼性の高いクロスチェーン取引が可能な、完全に分散化された世界初のデリバティブ取引所です。Serum は、オーダーブックを持つ DEX であるという長所を持ち、基本的で必須の取引機能を構築することができます（これについては後述します）。Serum が潜在能力を最大限に発揮するには、エコシステム内で最高の中央集権型取引所 (CEX) に匹敵する UI/UX を提供する必要があります。
 
-</br>
+
 
 なぜ Bonfida なのか？
 ===============
@@ -43,7 +38,7 @@ Serum DEX は、1 日の出来高が約 222 万ドルに達し、そのうちの
 
 私たちは、DEX が、中央集権的な取引所を必然的に置き換える強力な存在であると考えています。Serum は、この分野を席巻し、最終的にはマーケットリーダーとなる可能性を秘めており、Bonfida は競合との差別化を図りつつ、Serum の成長に貢献し加速させていくでしょう。
 
-</br>
+
 
 Serum について
 ==========
@@ -57,7 +52,7 @@ Serum について
 
 私たちは、これらの機能が特定のユーザ層にとても魅力的であると考えています。しかし、Serum のような DEX が存分に真価を発揮するには、シームレスでシンプルなユーザインターフェースが必要です。ここで Bonfida の出番です。
 
-</br>
+
 
 機能
 ==
@@ -82,7 +77,7 @@ Bonfida は Serum DEX に、取引 BOT ／NFT の取引／洗練された GUI �
 
 ><em>Bonfida の TradingView チャート</em>
 
-</br>
+
 
 FIDA トークン
 =========
@@ -99,7 +94,7 @@ Bonfida のネイティブトークン FIDA はプラットフォームに完全
 
 ><em>Solible で販売されている Bitcoin トラム NFT</em>
 
-</br>
+
 
 まとめ
 ===

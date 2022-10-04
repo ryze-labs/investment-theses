@@ -2,13 +2,11 @@
 
 Not financial advice.
 
-<br>
-
 ## Introduction
 
 As the crypto ecosystem has exploded in popularity, there are new projects every day, podcasts, research reports, data analysis tools, Substacks, and Telegram groups all spewing information like a fire hose. Twitter has emerged as the leading platform for seeking alpha in the crypto ecosystem. The importance of Twitter to crypto cannot be overstated; many careers have been made, projects launched/discovered, partnerships formed, and trends catalyzed by crypto Twitter. However, it still remains difficult to separate the signal from the noise and follower count alone does not correlate with the quality of the user’s insights (especially because shitposting tends to yield more engagement). Cope changes this by offering the ultimate signal filter. In its simplest form, Cope is a way to measure the quality of a Twitter user’s “market calls”, and makes it as easy as possible to deploy your capital behind these Twitter users.
 
-<img src="https://miro.medium.com/max/3000/1*LMP-sCSoHXuG95LS8mZUEg.png" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/1*LMP-sCSoHXuG95LS8mZUEg.png" alt="1" width="800px" />
 
 >Twitter is the platform of choice for crypto industry.
 
@@ -20,7 +18,7 @@ As the crypto ecosystem has exploded in popularity, there are new projects every
 - Positioned to thrive as social media influence and financial advice continue to converge
 - Highly engaged, the fast-moving founding team
 
-<br>
+
 
 ## Products
 - Cope Score - Quantitative performance measurement of market calls made by Twitter accounts
@@ -28,7 +26,7 @@ As the crypto ecosystem has exploded in popularity, there are new projects every
 - Cope trading pools - Bot-operated decentralized trading pools that copy trade top call makers
 - Cope Index - An Index of twenty tokens selected based on the recommendations of the top 100 call makers, rebalanced every 48 hours
 
-<br>
+
 
 ## Cope score
 
@@ -55,13 +53,13 @@ The final score is then subject to a discount based on the user’s previous Cop
 
 Beyond bragging rights and validation, maintaining good standing on the Cope Leaderboard can earn top call makers significant Cope. Initially, 4000 Cope will be distributed progressively every 2 weeks (Bi-weekly) based on Cope Score. This amount will be subject to review by the community once the leaderboard is live.
 
-<img src="https://miro.medium.com/max/3000/1*8SgCz1G2ZJvb0ySnJ3O5GA.png" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/1*8SgCz1G2ZJvb0ySnJ3O5GA.png" alt="2" width="800px" />
 
 >COPE flow
 
 More info on Cope tokenomics can be found <a href='https://www.unlimitedcope.com/assets/COPE_Tokenomics_0.pdf' target='_blank'>here</a>.
 
-<br>
+
 
 ## Examples of Twitter market calls
 
@@ -72,17 +70,17 @@ Using data analysis bots to crawl through Twitter accounts, Cope generates an on
 
 - Recommends new projects that go on to 10X:
 
-<img src="https://miro.medium.com/max/3000/1*pVT3WIJuKc3eMxdOMBzOPw.png" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/1*pVT3WIJuKc3eMxdOMBzOPw.png" alt="3" width="800px" />
 
 ><a class="ds kr" href="https://twitter.com/scupytrooples/status/1284847048559230982?s=20" rel="noopener nofollow">https://twitter.com/scupytrooples/status/1284847048559230982?s=20</a>
 - Calls the bottom/top of a token, at the actual bottom/top:
 
-<img src="https://miro.medium.com/max/3000/1*BE98_O5u_IIFeKOrWSstXA.png" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/1*BE98_O5u_IIFeKOrWSstXA.png" alt="4" width="800px" />
 
 ><a class="ds kr" href="https://twitter.com/tayvano_/status/1379879536377036803?s=20" rel="noopener nofollow">https://twitter.com/tayvano_/status/1379879536377036803?s=20</a>
 - Criticizes projects that end up declining in value:
 
-<img src="https://miro.medium.com/max/3000/1*OpWBZHaBIAZzpo232AIB3g.png" alt="5" width="800px">
+<img src="https://miro.medium.com/max/3000/1*OpWBZHaBIAZzpo232AIB3g.png" alt="5" width="800px" />
 
 ><a class="ds kr" href="https://twitter.com/novogratz/status/948901960132038656?s=20" rel="noopener nofollow">https://twitter.com/novogratz/status/948901960132038656?s=20</a>
 
@@ -95,7 +93,7 @@ Using data analysis bots to crawl through Twitter accounts, Cope generates an on
 
 Cope offers an evidence-based (past performance) approach to evaluating the quality of twitter signals. We do have PnL leaderboards on Binance and FTX and those do point you towards quality traders, but not necessarily to quality advice; as there is no accountability between what someone tweets and what trades they make that determine their PnL. Cope fixes this, for the first time we can get closer to an information market that is based exclusively on the merit of the insights. If you make high-quality “calls” you will be recognized (no pedigree or **“**shitposting**”** required). Cope is the democratization of the social media market call maker.
 
-<br>
+
 
 ## Cope trading pools
 
@@ -109,7 +107,7 @@ Cope Trading pools offer a passive way to copy the trades of any call maker on t
 
 Robo trading/asset management in crypto has yet to take off in the crypto ecosystem. This is partly due to the complexity of such a project which becomes prohibitively expensive when launching on Ethereum. By utilizing Solana the transaction fees become negligible and the use case becomes feasible. Furthermore, call makers don’t need to adopt new tech or change their behavior to participate and earn fees from their calls — they just need to keep tweeting (and activate their report).
 
-<br>
+
 
 ## Cope index
 
@@ -125,11 +123,11 @@ Similar to the Cope Trading Pools, profits from the Cope Index are harvested eve
 
 Notably, the Cope index fees are substantially lower than the Cope Trading pools - 20% of profits rather than 35% of profits. Additionally, there is no profit sharing with the call makers, so a larger share of the profits are used for Cope burning and community development.
 
-<br>
+
 
 ## Token Supply Sinks
 
-<img src="https://miro.medium.com/max/3000/1*d6ERGoMPg-uc_zOU-Smz3w.png" alt="6" width="800px">
+<img src="https://miro.medium.com/max/3000/1*d6ERGoMPg-uc_zOU-Smz3w.png" alt="6" width="800px" />
 
 >Attractive burn schedule
 - 15% of profits from the Cope index will be used to buy and burn Cope every 48 hours.
@@ -142,13 +140,13 @@ Notably, the Cope index fees are substantially lower than the Cope Trading pools
 
 It is estimated that in the first year, 400K Cope will be burned. As adoption and demand for Cope products grow, the amount of Cope burned annually will continue to increase.
 
-<img src="https://miro.medium.com/max/3000/1*Rjp111Pp_FWIwwhdz47MfQ.png" alt="7" width="800px">
+<img src="https://miro.medium.com/max/3000/1*Rjp111Pp_FWIwwhdz47MfQ.png" alt="7" width="800px" />
 
 >Supply schedule
 
 The COPE circulating supply will gradually increase from Cope rewards minted and distributed to the leaderboard (4000 bi-weekly), COPE liquidity mining and other pool incentives (5% of supply), and Cope tokens allocated to early investors and founding team ( 10% linearly vested over 1–3 years). This puts the current circulating supply at 16.7 M with 90% held by the community. At current **C**ope price levels, the circulating token supply in 4 years implies a liquid market cap of less than $100M.
 
-<br>
+
 
 ## Team
 
@@ -157,7 +155,7 @@ The people behind Cope exhibit some of our favorite founder qualities; Cyrii and
 
 When building a new product in crypto — founders are often met with unexpected roadblocks due to missing infrastructure. When Cryii and the team realized there was no tool on Solana for bulk transactions (airdrop distribution), they simply built one from scratch; demonstrating, both their project commitment and aptitude for shipping high-quality code — fast. The scrappy dedication of these founders was a great signal.
 
-<br>
+
 
 ## Community
 
@@ -181,7 +179,7 @@ Unlike most Airdrops — The Cope token was not quickly dumped on the market but
 
 Crypto Twitter influencers have a huge monetary incentive to adopt Cope and claim their Cope rewards. They are already putting in the work, now they can not only validate their past performance but earn additional income from it. Similar to the mechanics behind Bitclout’s rapid growth, Cope is positioned to go viral.
 
-<br>
+
 > _influencer validation + monetary incentive for activation = viral adoption_
 
 Crypto twitter Influencers with good Cope scores will be sure to share their scores with their followers as a form of validation, the same way many people share PnL leaderboards or screenshots of their successful trades. The Cope report is the most legitimate assessment of the advice they give to their followers. Awareness for the project to spread as Twitter influencers with good scores will organically be motivated to share their Cope reports with their followers. Major accounts will face mounting social pressure from their followers and competitors to publish their scores. This cycle will continue to feed adoption, awareness, and the social importance of a Cope Report and Leaderboard.
@@ -195,22 +193,22 @@ Beyond the validation, accounts with good scores will also be incentivized to pr
 4.  Drive more usage and awareness of $COPE
 5.  Cope demand increases
 
-<br>
+
 
 ## The rise of trader influencers
 
 Gen Z and millennials are not getting their financial advice from their parent’s advisors — and why should they? Most “Trusted” advisors have adamantly their clients from the best-performing asset of the last decade; bitcoin/crypto. Grassroots online communities, anti-establishment sentiment, and viral social media have converged in a perfect storm to give rise to a new bread of financial advisors that for the first time in history has real market impacts. While in a lot of ways this is a good thing — decentralizing the source of financial advice — there are obvious concerns about the quality of that advice especially when it comes from people without credentials/experience, or qualifications. If this is to be the future of the way people invest, it is imperative we measure what’s going on and hold these call makers accountable. Cope brings transparency and accountability to people who make investment advice, not only to flag those who have made bad calls in the past but to highlight those who are the most consistent and accurate. This seems so intuitive that we should be able to compare financial advisors by their performance, however, if you try to research the performance history for most financial advisors or even wall street analysis it would be nearly impossible to find anything substantive.
 
 
-One of the most common disruptive startup templates is metric based comparison shopping — flights (price) — insurance(price) — restaurants (reviews) — movies (reviews) — homes (price) — shopping (price/reviews) — doctors (price/reviews). While incumbents may fear it — it forces better market dynamics with decreased information asymmetry, consumers benefit from better price discovery and more agency. The Cope leaderboard is a natural extension of this template — but rather than compare anecdotal reviews or questionable claims of performance (Bernie Madoff reference), we can compare financial call makers quantitatively based on actual performance — recorded on an incorruptible ledger of truth — the Solana blockchain (read our Solana thesis <a href='/why-we-are-bullish-on-solana-c2be784cfdf6' target='_blank'>here</a>). Beyond crypto enthusiasts- Cope offers a critical piece of the infrastructure that will support a future where social media influence and financial advice converge.
+One of the most common disruptive startup templates is metric based comparison shopping — flights (price) — insurance(price) — restaurants (reviews) — movies (reviews) — homes (price) — shopping (price/reviews) — doctors (price/reviews). While incumbents may fear it — it forces better market dynamics with decreased information asymmetry, consumers benefit from better price discovery and more agency. The Cope leaderboard is a natural extension of this template — but rather than compare anecdotal reviews or questionable claims of performance (Bernie Madoff reference), we can compare financial call makers quantitatively based on actual performance — recorded on an incorruptible ledger of truth — the Solana blockchain (read our Solana thesis [here](solana.md)). Beyond crypto enthusiasts- Cope offers a critical piece of the infrastructure that will support a future where social media influence and financial advice converge.
 
-<br>
+
 
 ## Cope community building in China with Sino
 
 Sino Global Capital looks for projects that we can add strategic value to by enabling their success in the mainland China market. Sino has a China community/marketing expert who is 100% dedicated to helping our portfolio companies thrive in China. To start, we created a Cope China WeChat group that now has 285 members, and we share project updates such as the cope tokenomics — that we had translated into Mandarin. Going forward we are going to collaborate with local crypto communities and media companies to spread awareness and engagement in the China crypto ecosystem for Cope.
 
-<br>
+
 
 ## Key risks and threats
 
@@ -251,7 +249,7 @@ If a particular trading pool develops a large pool of capital behind it, the cal
 
 - The Cope score is designed to disincentivize front-running. Front-running will result in diminished ROI which will directly affect their Cope score. While it is likely some people will employ clever strategies to try to get away with this, the Cope protocol can implement measures such as issuing a “front-running detected notice” — and if repeated, discontinue the accounts trading pool. This will carry a significant reputational penalty for the frontrunner, likely creating a district amongst their followers.
 
-<br>
+
 
 ## Conclusion
 

@@ -39,7 +39,7 @@ Within the Solana ecosystem there are many AMMs and the competition is fierce.
 
 Orca competes with other AMMs through their human-centered UX. Below is a screenshot of their swap. Here, you will see a lot of subtle but crucial points of information that will put your mind at ease when trading.
 
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/918/0*7pJzYrjFszVWqz-s" width="459" height="649">
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/918/0*7pJzYrjFszVWqz-s" width="459" height="649" />
 
 *   Displays the approximate value of the tokens you are trading before and after a swap.
 *   Fair Price Indicator shows the difference between the quoted price by Orca vs price trackers such as Coingecko and others in the future. This helps users determine whether the prices fall within their expected range during their trades.
@@ -58,10 +58,10 @@ A key part of AMMs is liquidity. As an AMM garners strong support from Liquidity
 That said, every AMM has the same concept to create this virtuous cycle.  
 Orca stands out here through their superior user experience. It is incredibly easy to be a liquidity provider on Orca; all you need is equal parts of tokens for the desired pool, click deposit and it’s done.
 
-<br>
+
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/2400/0*IluZ9qMOM0IOkcX3" width="700"/>
-<br>
-<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1112/0*fqH9Mxi4KvNPuzVM" height="500">
+
+<img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1112/0*fqH9Mxi4KvNPuzVM" height="500" />
 
 This simplified deposit method takes out several steps from a typical AMM LP process. For reference, other AMM LP requires you to first add your tokens into a LP pool and receive a LP token representing your share and then stake that LP token into a farm in order to generate yield. Orca has done away with one step and allows you to immediately deposit and start generating yield. This handy feature reduces time taken and eases the experience for new users especially.
 
@@ -92,7 +92,7 @@ It is rare to see a project that dedicates a percentage of its revenue to help m
 Orca is also one of the very first few protocols to have conducted a fair launch on Solana. Through their intentional roll out, the communities were able to get retroactive rewards and be the very first to access the Orca tokens at fair prices. This is a great nod towards building and retaining a strong community which bodes very well to the future of Orca.
 
 Another aspect of Orca is it’s commitment to distribute its token to the community.
-</br>
+
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/2400/0*tn-gjhIa3p_SuP7M" width="600"/>
 
 The ORCA governance token is designed to support the long-term health of the Orca protocol. As such, most of the tokens are designed to be distributed to the greater community and supporters of the protocol to help shape and grow Orca into formidable force. Typically projects with a wide distribution of tokens have a better participation in governance programs as users believe that their votes matter and are not solely dependent on votes by whales.

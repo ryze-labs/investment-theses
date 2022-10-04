@@ -3,15 +3,12 @@ Why we invested in Project Serum 日本語訳
 
 Thanks to Softgate Limited for Translation ([original post](https://softgate-limited.medium.com/why-we-invested-in-mercurial-finance-japanese-269fb1b9c74d))
 
-</br>
 
 _本記事は、Sino Global Capital 社の_ [_Why we invested in Project Serum_](https://sinoglobalcap.medium.com/why-we-invested-in-project-serum-b6c9fa57e0a2) _という記事を、Sino Global Capital 社の許諾を受けて、日本語訳したものです。翻訳を快く許諾してくださった Sino Global Capital 社に感謝いたします。_
 
 _なお、本記事で提示するデータおよび考察は、翻訳時に混入した誤りを除き、更新／修正／改良の予定はありません。_
 
 本記事は投資助言を意図するものではありません。
-
-</br>
 
 ブロックチェーンの 10 億人規模のビジョン
 ======================
@@ -27,7 +24,7 @@ Serum の投資レポートの趣旨を正しく伝えるためには、まず�
 ![](https://miro.medium.com/max/1400/1*yqbJOl4AG2cyg6gE5rVvRw.png)
 ><em>DeFi の TVL は伝統的金融市場に比べると小さいが成長している。しかし Solana / Serum のビジョンは決済やSNSそして「大衆向け」のアプリケーションにまで及んでいる。</em>
 
-</br>
+
 
 Project Serum の登場
 =================
@@ -42,7 +39,6 @@ Serum 財団の設立パートナーである  Sam はこう言っています�
 
 以降のセクションでは、Serum が持つ主要な利点（その多くは Solana によって可能となった設計空間に関連する）と、考え得る欠点に焦点を当てて解説していきます。
 
-</br>
 
 利点: オーダーブックによる資本効率の向上
 =====================
@@ -69,7 +65,6 @@ _“過去はオーダーブック。だからそれは未来だと思う。” 
 
 AMM は、現在広く利用されている L1 の制限の中でも実現可能な、最も優れた流動性供給方式でした。しかし、高性能な Solana とそれによって生み出された設計空間の登場によって、オーダーブックが、従来の金融市場のような取引規模に対応できる流動性を確保するための重要なプリミティブとして機能するようになりました。
 
-</br>
 
 利点: コンポーザビリティによって本格的な金融インフラを備えたプロトコルの構築が可能となる
 =============================================
@@ -93,7 +88,6 @@ _DeFi のコンポーザビリティがとても強力なのは、すべての�
 
 Serum のコンポーザビリティは可能性を大きく広げ、ビジネスチャンスをすべての金融およびそれ以外の分野にまで効果的に拡大します。プロトコルは、特定のニッチな市場に合わせて製品をカスタマイズし、最高の製品を作り上げることに全力を注ぐことができる一方、舞台裏では Serum が大変な重労働をこなしているというわけです。
 
-</br>
 
 利点: Solana のパフォーマンス
 ===================
@@ -108,7 +102,6 @@ Solana ブロックチェーンは、Serum をサポートするために必要�
 *   [Why we are bullish on Solana](https://sinoglobalcap.medium.com/why-we-are-bullish-on-solana-c2be784cfdf6)
 *   [Why we are bullish on Solana 日本語訳](https://medium.com/why-we-are-bullish-on-solana-日本語訳-ae0265eb955a)
 
-</br>
 
 主な欠点
 ====
@@ -126,7 +119,6 @@ Solana ブロックチェーンは、Serum をサポートするために必要�
 ![](https://miro.medium.com/max/1400/1*-NTvoujSKty4SvPZgFqDBw.png)
 ><em>純粋な速度で言えば Serum は遅延が大きすぎて、一部の機関投資家の TradFi ユースケースをサポートできません。しかし、速度がさほど要求されないアプリケーションや即時決済に近い形で動作するアプリケーションには最適です。さらに、一部の株式やデリバティブ取引（Robinhood タイプのプラットフォーム）も、それほど速度を要求しないことに留意してください。</em>
 
-</br>
 
 ロードマップ
 ======
@@ -135,7 +127,6 @@ Serum は現在ロードマップのフェーズ 3 に入っています。フ�
 
 詳細は [https://projectserum.com/#/roadmap](https://projectserum.com/#/roadmap) をご覧ください。
 
-</br>
 
 ガバナンスとチーム
 =========
@@ -151,7 +142,6 @@ SRM ステーカーはノードを中心に組織されており、これらの�
 ![](https://miro.medium.com/max/1400/1*wqz0sJQ1rJjyQPxAsJjVlQ.png)
 ><em>Serum ノード一覧。ソース: [https://twitter.com/ProjectSerum/status/1312176559185301504](https://twitter.com/ProjectSerum/status/1312176559185301504)</em>
 
-</br>
 
 エコシステムの開発
 =========
@@ -178,14 +168,12 @@ _“どのような方向にエコシステムが拡大されていったとし�
 
 また、Solana のエコシステムを見事に表現する [https://pentacle.ai/solana](https://pentacle.ai/solana) もチェックすることをお勧めします。
 
-</br>
 
 エコシステム — Serum に統合されているプロジェクト
 =============================
 
 ここでは、Serum と統合したり、あるいは Serum をベースにすることで、それまで不可能だったユーザ体験や差別化された製品を実現したプロジェクトを「深掘り」して紹介します。
 
-</br>
 
 Bonfida
 -------
@@ -199,7 +187,6 @@ Serum DEX の GUI は、豊富な補助的機能を備え、カスタマイズ�
 *   [https://sinoglobalcap.medium.com/why-we-invested-in-bonfida-49216b5a0425](https://sinoglobalcap.medium.com/why-we-invested-in-bonfida-49216b5a0425)
 *   [日本語訳](https://medium.com/why-we-invested-in-bonfida-japanese-aca2091bdabc)
 
-</br>
 
 Mango Markets
 -------------
@@ -208,8 +195,6 @@ Mango Markets
 
 Mango Market は最初のうちは Serum のテイカーとメイカーに 5 倍までのクロスマージンレバレッジを提供します。Serum では手数料が SRM の保有量に応じて割引されるティア構造になっているため（訳注: そして Mango プラットフォームが大量の SRM を保有しているので）、Mango のトレーダーは Serum DEX の取引手数料を節約することができます。
 
-</br>
-
 分散型ゲーミング — Star Atlas, Aurory, OpenEra, DefiLand など
 ---------------------------------------------------
 
@@ -217,7 +202,6 @@ Mango Market は最初のうちは Serum のテイカーとメイカーに 5 倍
 
 このようなゲーマーは、購入したアイテムを実際に受け取れるかどうか定かではないサードパーティーのマーケットプレイスでの取引に頼らざるを得ないことがあります。Serum は、ゲーム内通貨やアイテムなどの商品を誰の認可も受けずに売買できるゲーム内マーケットを設置することで、ゲームの分散化を現実のものにするための、最後の欠けていたピースと言えます。また、Serum は、ゲームのユーザに完全にシームレスな体験を提供し、分散化がもたらす利点に加えて、迅速な取引と低い手数料を兼ね備えたパフォーマンスの高いゲーム内経済を実現します。
 
-</br>
 
 Oxygen
 ------
@@ -233,7 +217,6 @@ Oxygen
 *   [https://sinoglobalcap.medium.com/why-we-invested-in-oxygen-a17a17722e12](https://sinoglobalcap.medium.com/why-we-invested-in-oxygen-a17a17722e12)
 *   [日本語訳](https://medium.com/why-we-invested-in-oxygen-日本語訳-c0642bad2803)
 
-</br>
 
 Mercurial Finance
 -----------------
@@ -245,14 +228,12 @@ Mercurial Finance
 *   [https://sinoglobalcap.medium.com/why-we-invested-in-mercurial-finance-76550a47c269](https://sinoglobalcap.medium.com/why-we-invested-in-mercurial-finance-76550a47c269)
 *   [日本語訳](https://medium.com/why-we-invested-in-mercurial-finance-japanese-269fb1b9c74d)
 
-</br>
 
 PsyOptions
 ----------
 
 [PsyOptions](https://psyoptions.io/) で発行されたオプションは SPL トークンで表現されており、Serum のオーダーブックでオプションを取引するようなコンポーザビリティを可能にします。ユーザは、自分の Dapp 内でオプションを発行して取引することができ、それは Serum のオーダーブックに直接統合されることになります。
 
-</br>
 
 Raydium
 -------
@@ -269,7 +250,7 @@ Raydium と Serum の間には多くの相乗効果があります。たとえ�
 Serum のエコシステムに貢献してみたいですか？ それなら、Serum Docs に掲載されているいくつかのプロジェクトのアイディアをご覧ください:  
 [https://docs.projectserum.com/serum-ecosystem/building-on-our-vision/ideas-for-projects](https://docs.projectserum.com/serum-ecosystem/building-on-our-vision/ideas-for-projects)
 
-</br>
+
 
 トークノミクス
 =======
@@ -291,7 +272,7 @@ $MSRM は、1,000,000 $SRM と交換することができますが、$SRM 以上
 
 これ以降では、需要と供給の主な要因を見ながら、トークノミクスをさらに深く掘り下げていきます。
 
-</br>
+
 
 需要面
 ---
@@ -304,7 +285,6 @@ $MSRM は、1,000,000 $SRM と交換することができますが、$SRM 以上
 
 ><em>執筆時点の SRM バーン状況</em>
 
-</br>
 
 供給面
 ---
@@ -315,7 +295,7 @@ $MSRM は、1,000,000 $SRM と交換することができますが、$SRM 以上
 
 ><em>Serum の 7 年間のアンロックスケジュールは保有者の長期的なインセンティブを最大化します。ソース: [https://projectserum.com/#/srm-token-summary](https://projectserum.com/#/srm-token-summary)</em>
 
-</br>
+
 
 需給のダイナミクス
 ---------
@@ -326,13 +306,12 @@ $MSRM は、1,000,000 $SRM と交換することができますが、$SRM 以上
 
 <img alt="" class="fe en ej kw w" src="https://miro.medium.com/max/2400/1*o5gCGPvz2Hr60fa9l9-LDw.png" width="700" height="442" />
 
-><em>Coinmonks のバイバックフローモデルフレームワーク。ソース: [https://medium.com/coinmonks/buyback-flow-model-a-way-to-model-crypto-buybacks-through-the-srm-case-study-cf8ca92a0e2f](https://medium.com/coinmonks/buyback-flow-model-a-way-to-model-crypto-buybacks-through-the-srm-case-study-cf8ca92a0e2f)<em>
+><em>Coinmonks のバイバックフローモデルフレームワーク。ソース: [https://medium.com/coinmonks/buyback-flow-model-a-way-to-model-crypto-buybacks-through-the-srm-case-study-cf8ca92a0e2f](https://medium.com/coinmonks/buyback-flow-model-a-way-to-model-crypto-buybacks-through-the-srm-case-study-cf8ca92a0e2f)</em>
 
 Coinmonks のモデルを利用して、トークン当たりの 2027 年の平均算出価格を現在の $SRM の価格 4 ドルと比較すると、CAGR（年平均成長率）は約 49% = ((43.2/4)^(1/6)-1)と推定できます。繰り返しになりますが、この数字は前提条件に大きく依存しています（期間も丸められています）が、バイバックバーンモデルがネイティブトークンの価値発生を促進する強力なメカニズムであることを明確に示しています。
 
 時間の経過とともに、Serum が多数のオンチェーン製品を通じて、10 億人のユーザにとって重要な構成要素になっていくと、フルにアンロックされた後には供給が停滞する一方で、買い戻し圧力が大幅に増加することが予想されます。
 
-</br>
 
 まとめ
 ===
@@ -347,6 +326,5 @@ Solana 上の[トークン化された株式](https://www.theblockcrypto.com/lin
 
 また、リサーチやレビューを支援するために主要なリソースを提供してくれた Serum チームと [@SBF](http://twitter.com/SBF) に感謝いたします。
 
-</br>
 
 **免責事項**: _本コンテンツは情報提供のみを目的としており、これらの情報やその他の資料を法律／税務／投資／財務／その他のアドバイスと解釈するべきではありません。ここに記載されているいかなる内容も、Sino または第三者のサービス提供者により、本国内またはその他の地域の証券法によって違法となるような有価証券またはその他の金融商品の売買の勧誘／推奨／保証や申し出を意図するものではありません。_

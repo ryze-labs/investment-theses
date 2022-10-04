@@ -2,13 +2,10 @@
 
 Not investment advice
 
-<br>
-
 ## Introduction
 
 Wintermute is a crypto market maker based in London. They are a proprietary trading firm and do not manage crypto or fiat funds on behalf of investors or customers. Before digging into WM, let’s first look at why market makers are so important in the crypto industry.
 
-<br>
 
 ## What is a market maker?
 
@@ -27,10 +24,9 @@ By providing both sides of the market (making the market) for an asset, MMs ensu
 
 By offering both bid and ask in a stable market, MMs quickly profit from bid-ask discrepancy, however, when markets trend and there is high volatility, the risks and rewards increase and sophisticated MMs employ a range of strategies to maximize profit.
 
-<img src="https://miro.medium.com/max/3000/1*5eIUxfTQI5IXWoY8zpVQFw.png" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/1*5eIUxfTQI5IXWoY8zpVQFw.png" alt="1" width="800px" />
 
 >Image source: Wintermute
-<br>
 
 ## How market makers make money
 
@@ -45,7 +41,7 @@ BTC on the other hand, usually has a spread of 3–5 bps, meaning crypto MMs can
 
 Note the spike during the March 13 crash. Under normal conditions most exchanges would rarely exceed a spread of 0.2%, with more established exchanges like Coinbase averaging between 0.02–0.04%.
 
-<img src="https://miro.medium.com/max/3000/1*faxkUTzPlTNf9eszM5A2ew.png" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/1*faxkUTzPlTNf9eszM5A2ew.png" alt="2" width="800px" />
 
 >BTC Bid-Ask Spread
 
@@ -60,7 +56,6 @@ There are many popular strategies that MMs employ to make money. Examples includ
 
 **Grid trading:** MMs place increasing orders throughout the book around an average price. As the price moves, market makers earn money on spreads. Given that the orders increase as they diverge from the average price, the MM engages in a sort of Martingale System of betting; doubling down as price diverges.
 
-<br>
 
 ## Crypto vs Traditional MM
 
@@ -72,7 +67,6 @@ In crypto, individuals and firms have direct access to same exchanges, APIs and 
 
 Big names in traditional HFT MM include Citadel Securities, Jump Trading, Hudson River, Optiver etc. These are not crypto focused, and those that have recently entered the market lack the idiosyncratic knowledge of crypto, e.g. different APIs, relationships, intricacies of DeFi etc.)
 
-<br>
 
 ## Crypto MM (Orderbook) vs AMM
 
@@ -84,7 +78,7 @@ AMMs allow users to seamlessly swap tokens in a completely decentralized and non
 
 Slippage is a major concern for AMMs. For instance, if an order is placed that is greater than half of the liquidity pool, the token price would skyrocket. Such massive slippage would never be acceptable in order book exchanges. This risk means sophisticated investors with complex trading strategies and large order sizes will be drawn to toward deep orderbooks.
 
-<br>
+
 
 ## Why Wintermute?
 
@@ -108,7 +102,7 @@ While the number of crypto exchanges continues to increase, there is a shortage 
 
 So how big is this market? For reference, the total notional monthly volume for equities on the NYSE and NASDAQ for September 2020 was approximately $8.7 trillion, with an average of $7.9 trillion per month for 2020.
 
-<img src="https://miro.medium.com/max/3000/1*Tp4qM2TwNMHcmuzc4vcPmw.png" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/1*Tp4qM2TwNMHcmuzc4vcPmw.png" alt="3" width="800px" />
 
 >Massive traditional equities market
 
@@ -120,7 +114,7 @@ Estimating reliable crypto market volume is often difficult due to the prevalenc
 
 The Block Legitimate Volume Index for September 2020 was over $169 billion (~2% of the $8.7 trillion volume in US equities for September above).
 
-<img src="https://miro.medium.com/max/3000/0*8s86kts1DlPqPFK-.png" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/0*8s86kts1DlPqPFK-.png" alt="4" width="800px" />
 
 >Crypto markets still relatively small
 
@@ -157,13 +151,9 @@ Wintermute offers institutional OTC desks and aggregators competitive tailor-mad
 
 Wintermute was also an official market maker of some of the most prominent projects that got listed in 2020 helping them achieve liquidity across most exchanges, pairs and liquidity pools.
 
-<br>
-
 ## Strategic opportunity for Wintermute in China and how Sino will help
 
 Wintermute is seeking to expand its Asia exposure to better serve counterparties with a variety demands. China is a major crypto market with a lack of sophisticated market makers. Sino will connect Wintermute with their Chinese audience as a bridge between East and West.
-
-<br>
 
 ## Conclusion
 

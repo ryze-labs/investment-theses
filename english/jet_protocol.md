@@ -1,4 +1,4 @@
-**Why we invested in Jet Protocol**
+# Why we invested in Jet Protocol
 ===================================
 
 Not financial advice.
@@ -160,8 +160,6 @@ A common dilemma for DeFi application developers is on how much of the complex b
 
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1400/0*0o3ZoSFU2ydSjLNs" max-width="700" max-height="369"/>
 
-</br>
-
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/896/0*6AzJpmKqxKLzdrjl" max-width="448" max-height="554"/>
 
 Copilot steps in when it finds any errors:
@@ -171,8 +169,6 @@ Copilot steps in when it finds any errors:
 **Deposit and borrow:**
 
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1088/0*UhPBnTHASnYPIDFp" max-width="544" max-height="636"/>
-
-</br>
 
 <img alt="" class="ef es eo ex w" src="https://miro.medium.com/max/1088/0*Ex1C8-VrJjb84f12" max-width="544" max-height="636"/>
 

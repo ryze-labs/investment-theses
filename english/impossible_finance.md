@@ -4,8 +4,6 @@ Why we invested in Impossible Finance
 
 Not financial advice.
 
-<br>
-
 
 **Introduction**
 ================
@@ -17,9 +15,6 @@ Then came Ethereum which cemented ICOs as the de facto way to launch new blockch
 Fast forward to today, the fundraising market has grown rapidly with thousands of projects being launched, propelling the crypto space to its current popularity. With growth like this, there is increasing demand for a higher quality curation of projects and an ecosystem to support it.
 
 As such, Sino Global Capital is excited to announce our investment in Impossible Finance. In this investment thesis, we will share our thoughts on the importance of fundraising and how Impossible Finance will bring about positive changes to fundraising, powering the best project-launching mechanisms, bringing together investors, users and projects into a cohesive multi-chain ecosystem.
-
-
-<br>
 
 
 **Sector Analysis — Launchpads**
@@ -44,7 +39,7 @@ Virtuous cycle for a successful launchpad.
 Over the long run this cycle will also be beneficial to Impossible Finance, as faith and trust are built by both project applicants and investors, knowing that the launchpad will do right by them. For Launchpads, as the intermediary between projects and investors, it is crucial to maintain a balance between all parties. A failure to maintain this balance will all but ensure the failure of a launchpad as trust and faith get eroded. In summary, the main drivers of the success of a launchpad are quality project curation and developing investor demand.
 
 
-<br>
+
 
 
 **Current Problems**
@@ -71,7 +66,7 @@ These issues pose a problem to retail investors placing them at a disadvantage f
 **Projects** are faced with the tough choice of pursuing fundraising on a rushed schedule versus focusing on building first. Raising funds as a project can be tough and time consuming, draining precious resources away from the team, slowing down the building of their product and vision. Some teams who choose to raise by themselves via public sales have to dedicate resources to build the necessary tools and features in preparation. Other teams who choose to raise via private sales may find themselves spending valuable time meeting with many institutional investors. Besides that, some launchpads charge upfront, deterring projects from using them.
 
 
-<br>
+
 
 
 **The Impossible Finance Vision**
@@ -85,7 +80,7 @@ Team
 Calvin Chu is a builder at Impossible Finance, Formerly of Binance Research he has valuable experience leading Binance Staking across 30 blockchains while supporting due diligence in projects applying for the Binance Launchpad. His insight and experience will help shape the launchpad into a prime candidate for consideration for projects and users alike seeking a more open fundraising option. Other members of the contributing team have backgrounds in payments, ride sharing, centralized exchanges and layer 1 blockchains to help scale the infrastructure to support project teams.
 
 
-<br>
+
 
 
 **Key Advantages/Features**
@@ -137,7 +132,7 @@ The launch sale doesn’t end Impossible’s engagement with project teams — I
 Impossible will also set aside a portion of its governance tokens and revenue from its product lines to create an insurance fund that ensures users have peace of mind depositing in Impossible smart contracts. In the Defi world there are still many unknowns and vulnerabilities despite all precautions taken, hence the insurance fund will function as a backstop in case disaster happens.
 
 
-<br>
+
 
 
 **Governance**
@@ -154,7 +149,7 @@ Impossible is working on progressively decentralizing its infrastructure and pro
 
 Through these mechanisms the vision of creating a decentralized launchpad can become a reality. We at Sino believe that having a strong decentralized community that is actively engaged in a project is instrumental to the success of a project and are bullish on the success of IF.
 
-<br>
+
 
 
 **Risks**
@@ -164,7 +159,7 @@ Through these mechanisms the vision of creating a decentralized launchpad can be
 2.  **Competition —** Intense competition that Impossible Finance could face are chain specific launchpads that focus specifically on their ecosystem, as well as strategic funds and institutional investors. Being chain specific, these launchpads could be in a better position with stronger domain expertise to attract some types of projects and appeal to domain specific users.
 
 
-<br>
+
 
 
 **Conclusion**

@@ -4,7 +4,7 @@ Why we invested in Mercurial Finance 日本語訳
 
 Thanks to Softgate Limited for Translation ([original post](https://softgate-limited.medium.com/why-we-invested-in-mercurial-finance-japanese-269fb1b9c74d))
 
-</br>
+
 
 _本記事は、Sino Global Capital 社の_ [_Why we invested in Mercurial Finance_](https://sinoglobalcap.medium.com/why-we-invested-in-mercurial-finance-76550a47c269) _という記事を、Sino Global Capital 社の許諾を受けて、日本語訳したものです。翻訳を快く許諾してくださった Sino Global Capital 社に感謝いたします。_
 
@@ -12,7 +12,7 @@ _なお、本記事で提示するデータおよび考察は、翻訳時に混�
 
 本記事は投資助言を意図するものではありません。
 
-</br>
+
 
 イントロダクション
 =========
@@ -34,7 +34,7 @@ USDT/USDC 取引ペアの DEX における月次取引量は過去一年間で�
 
 ><em>急激に成長するステーブルコインのトランザクション量（ソース: Coinmetrics）</em>
 
-</br>
+
 
 現在の問題点
 ======
@@ -57,7 +57,7 @@ USDT/USDC 取引ペアの DEX における月次取引量は過去一年間で�
 
 DeFi は継続的に成長しているので、貸し手は利回りを最大化するために、絶えず新しいイールドファームや戦略を模索する必要があります。このような戦略を効率的に実行するための時間と専門知識を持たない投資家にとっては、これは難しいことかもしれません。
 
-</br>
+
 
 Mercurial Finance
 =================
@@ -66,7 +66,7 @@ Mercurial Finance ([https://www.mercurial.finance/](https://www.mercurial.financ
 
 Solana の DeFi エコシステムの急速な拡大に伴って、ステーブルコインの発行やスワップ、そしてファーミングの需要は高まる一方です。革新的な技術／ビジョン／ブランド／戦略的パートナーの強力な組み合わせにより、私たちは Mercurial Finance がこの需要の最大シェアを獲得できるユニークな立場にあると考えており、以下ではそれを深く掘り下げていきます。
 
-</br>
+
 
 ソリューション
 =======
@@ -81,7 +81,7 @@ _※ 訳注：原文では_ **_dynamic vault_** _と表記されており、直�
 *   高ボラティリティ時: 手数料を高く設定し、IL を減少させ、より多くの手数料収益を獲得します
 *   低ボラティリティ時: 手数料を低く抑え、取引を促します
 
-</br>
+
 
 トレーダーにとっての利点
 ============
@@ -91,7 +91,7 @@ _※ 訳注：原文では_ **_dynamic vault_** _と表記されており、直�
 ![](https://miro.medium.com/max/1400/1*O3Afg9Ff6vv5_JFtYazjAg.png)
 ><em>動的な手数料によって資金効率の良いスワップ（ソース: Mercurial Finance）</em>
 
-</br>
+
 
 貸し手にとっての利点
 ==========
@@ -113,7 +113,7 @@ _※ 訳注：原文では_ **_dynamic vault_** _と表記されており、直�
 
 ><em>Mercurial プールの重要な特徴（ソース: [https://www.mercurial.finance/Mercurial-Lite-Paper-v1.pdf](https://www.mercurial.finance/Mercurial-Lite-Paper-v1.pdf)）</em>
 
-</br>
+
 
 シームレスな UX/UI
 ============
@@ -123,7 +123,7 @@ Mercurial Finance は、中央集権型プラットフォームから分散型�
 ![](https://miro.medium.com/max/724/1*YZZDD9gzNFtiqQMhauyrRw.png)
 ><em>Mercurial のクリーンな UI</em>
 
-</br>
+
 
 MER トークン
 ========
@@ -136,7 +136,7 @@ MER トークン
 
 さらに、MER トークンは Mercurial エコシステムのガバナンスと本質的にリンクしています。MER トークンの保有者は、スワップ手数料やプールの手数料、そしてイールド戦略といった鍵となる重要なパラメータの決定に対して投票することができます。
 
-</br>
+
 
 リスクと脅威
 ======
@@ -146,7 +146,7 @@ MER トークン
 
 Solana エコシステムでは現在いくつかのステーブルコインのスワッププロトコルが開発されています。借り手も貸し手も、最終的には、機能／利回り／手数料／スリッページなどを総合的に判断して、自分にとって最大のメリットを提供するプラットフォームを選択します。Mercurial Finance がユーザに優先的に利用されるプラットフォームとしての地位を確立するためには、すべての面で最高のソリューションを提供する必要があるでしょう。
 
-</br>
+
 
 将来的な可能性
 =======
@@ -156,14 +156,14 @@ Solana エコシステムでは現在いくつかのステーブルコインの�
 
 Solana エコシステムでより多くの DeFi の構成要素が開発されるにつれ、他の DeFi アプリケーションが様々なユースケースで Mercurial のスマートなプールを活用するようになることが期待されます。例えば、レバレッジをかけたイールドファーミングプロトコルであれば、金利の安いステーブルコインを借りて、Mercurial の低スリッページのスワップを利用して、目的のステーブルコインと効率的に交換し、50:50 の比率を維持することができます。独自のステーブルコインを発行する Dapp ならば、発行するステーブルコインの互換性と流動性を最大化するために、Mercurial との統合が不可欠になるでしょう。
 
-</br>
+
 
 ステーブルコイン以外への応用
 --------------
 
 Mercurial は彼らのダイナミックプールを他のあらゆるトークンのペアを扱えるように拡張することを目指しています。新しい価格モデルを実装し、1:1 ではないトークンのセットに最適化します。これにより、Mercurial の提供するサービスが、さらに幅広いマーケットに及ぶようになります。
 
-</br>
+
 
 結論
 ==

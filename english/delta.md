@@ -2,7 +2,6 @@
 
 Not financial advice.
 
-<br>
 
 ## Introduction
 
@@ -29,7 +28,7 @@ In line with these values we are proud to announce our investment in Delta Excha
 
 Before getting into Delta, let’s explore the increased interest in crypto derivatives on a global scale and the potential of the Indian crypto derivatives market at a solid foothold.
 
-<br>
+
 
 ## The Global Crypto Derivatives Market
 
@@ -44,13 +43,13 @@ In addition to the Bitcoin futures and options currently available, the CME will
 
 The incumbent derivatives exchanges set a new ATH daily volume record in 2020, reaching $93.36 billion on November 26th. This number almost doubled the previous record of $56.87 billion on the 12th of March 2020:
 
-<img src="https://miro.medium.com/max/3000/1*H8Z-5gCQ68gVeMc9E9Jegw.jpeg" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/1*H8Z-5gCQ68gVeMc9E9Jegw.jpeg" alt="1" width="800px" />
 
 >Growing crypto derivatives volume
 
 The total monthly crypto derivatives volume almost doubled in the month of November to a new ATH of $1.32 trillion, while total spot volume rose to $906 billion. The derivatives market now accounts for nearly 60% of the entire crypto market, up from ~50% in the month of October:
 
-<img src="https://miro.medium.com/max/3000/1*Cc7eFdPM3LxErD9osqEMOw.jpeg" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/1*Cc7eFdPM3LxErD9osqEMOw.jpeg" alt="2" width="800px" />
 
 >Surging monthly volume
 
@@ -59,34 +58,34 @@ Derivatives accounting for 60% of the total market may sound impressive, until y
 
 For a visual look at the sheer scale of the traditional derivatives market, and where we got these estimates, the Visual Capitalist (<a href='https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/' target='_blank'>https://www.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization-2020/</a>) is worth a look.
 
-<img src="https://miro.medium.com/max/3000/1*nTy2_20y8jNfOhRhDepVGw.png" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/1*nTy2_20y8jNfOhRhDepVGw.png" alt="3" width="800px" />
 
 >Derivatives dominate. Source: Visual Capitalist
-<br>
+
 
 ## The Indian Crypto Landscape
 
 India is growing in crypto adoption, and still has a lot of potential. The Chainalysis Global Crypto Adoption Index places India as 11th globally:
 
-<img src="https://miro.medium.com/max/3000/1*iTLDnOFvG7h7pQFA-hD0Aw.png" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/1*iTLDnOFvG7h7pQFA-hD0Aw.png" alt="4" width="800px" />
 
 >Source: Chainalysis
 
 Another oft-cited measure of adoption is LocalBitcoins volume, including this report from August 2018 (source: <a href='https://t.co/81SyuujLNt?amp=1' target='_blank'>http://coin.dance</a>):
 
-<img src="https://miro.medium.com/max/3000/1*rVtuhegW9EoWajC8S2-vDA.png" alt="5" width="800px">
+<img src="https://miro.medium.com/max/3000/1*rVtuhegW9EoWajC8S2-vDA.png" alt="5" width="800px" />
 
 >Source: coin.dance
 
 We did our own up-to-date research using data published by LocalBitcoins and Paxful as a proxy for interest in crypto among the general public for some of the top countries listed for adoption:
 
-<img src="https://miro.medium.com/max/3000/1*QS9hXWYx52adMtPP0klpoA.png" alt="6" width="800px">
+<img src="https://miro.medium.com/max/3000/1*QS9hXWYx52adMtPP0klpoA.png" alt="6" width="800px" />
 
 >Tremendous growth potential for crypto in India
 
 As you can see India still has a lot of growth potential compared to other nations in adoption by the general public, and interest is growing:
 
-<img src="https://miro.medium.com/max/3000/1*ZipICgFhm1NOv5g3HHVxKQ.png" alt="7" width="800px">
+<img src="https://miro.medium.com/max/3000/1*ZipICgFhm1NOv5g3HHVxKQ.png" alt="7" width="800px" />
 
 >Growing interest
 
@@ -95,7 +94,7 @@ While crypto popularity among the general public is a long term positive sign fo
 
 The appetite among Indian traders for derivatives in undeniable. In 2019, the National Stock Exchange of India (NSE) surpassed the US based CME Group to become the world’s largest derivatives market by volume:
 
-<img src="https://miro.medium.com/max/3000/1*-U34CdgmfqnP4e3lDGLMEA.jpeg" alt="8" width="500px">
+<img src="https://miro.medium.com/max/3000/1*-U34CdgmfqnP4e3lDGLMEA.jpeg" alt="8" width="500px" />
 
 >Source: <a class="dn ji" href="https://t.co/F4zne0bViO?amp=1" rel="noopener nofollow">https://fia.org/media/2407</a>
 
@@ -104,7 +103,7 @@ Delta has global ambitions with a unique opportunity to dominate the Indian mark
 
 We believe Delta is on par with or better than many other players in the global crypto derivatives industry in terms of innovation and speed of execution. They are in a unique position to become a major player by leveraging their foothold in the growing Indian crypto derivatives market. They are led by a team who understands the market intimately and has the know-how to execute. This is Delta Exchange.
 
-<br>
+
 
 ## Delta Exchange
 
@@ -113,7 +112,7 @@ The Delta team led by Pankaj Balani (<a href='https://twitter.com/pankaj_delta_e
 
 Current daily volume on the exchange averages around $70 million, however we believe that is just the beginning. The team are carving out a niche as the go-to crypto exchange for sophisticated traders. Looking at a breakdown of the traditional derivatives market in India; retail traders are the largest participants, narrowly beating institutionals:
 
-<img src="https://miro.medium.com/max/3000/1*rFtLLSyp_hW7czgKcyy0jg.jpeg" alt="9" width="600px">
+<img src="https://miro.medium.com/max/3000/1*rFtLLSyp_hW7czgKcyy0jg.jpeg" alt="9" width="600px" />
 
 >Massive retail participation in traditional derivatives in India
 
@@ -127,7 +126,7 @@ In addition, the team are constantly adding new features to the platform and cre
 - Price floor: Users who use DETO can pay some of their trade fees in DETO (up to 25% of the fee) and avail of a minimum price floor of $0.10.
 - Insurance fund: Once a stable price for DETO is available, staking yield will be provided to backstop the insurance fund. This will disincentivise farm & dump.
 
-<br>
+
 
 ## Conclusion
 

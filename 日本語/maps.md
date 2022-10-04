@@ -3,7 +3,7 @@ Why we invested in Maps.me 日本語訳
 
 Thanks to Softgate Limited for Translation ([original post](https://softgate-limited.medium.com/why-we-invested-in-maps-me-japanese-9b5d72f6911))
 
-</br>
+
 
 _本記事は、Sino Global Capital 社の_ [_Why we invested in Maps.me_](https://sinoglobalcap.medium.com/why-we-invested-in-maps-me-3cfe05677bd3) _という記事を、Sino Global Capital 社の許諾を受けて、日本語訳したものです。翻訳を快く許諾してくださった Sino Global Capital 社に感謝いたします。_
 
@@ -11,7 +11,7 @@ _なお、本記事で提示するデータおよび考察は、翻訳時に混�
 
 本記事は投資助言を意図するものではありません。
 
-<br>
+
 
 イントロダクション
 =========
@@ -20,7 +20,7 @@ Sino Global Capital は MAPS.ME ([https://maps.me/](https://maps.me/)) へ投資
 
 まず、MAPS.me が近い将来にウォレット機能を導入する際の重要な要素となる観光業とモバイル決済について見てみましょう。
 
-<br>
+
 
 観光業とモバイル決済
 ==========
@@ -44,7 +44,7 @@ COVID 以前は、中国の中流層が世界の国際観光支出に占める�
 
 DeFi はどのように従来のモバイル決済を変革していくのでしょうか？
 
-<br>
+
 
 DeFi のエコシステムの成長
 ===============
@@ -72,7 +72,7 @@ DeFi 業界が成熟してきてより広いユーザ層に受け入れられて
 
 DeFi プラットフォームが成長して、従来の金融に代わる分散型の取引や TVL が増加しているにも関わらず、スピードやコスト、UX/UI などの点において、改善の余地は大いにあります。従来の FinTech を見てみましょう。
 
-<br>
+
 
 FinTech 市場
 ==========
@@ -93,7 +93,7 @@ FinTech ソリューションの人気と普及は、自分たちのソリュー
 
 もし、FinTech ユーザのごく一部でも DeFi に取り込めれば、DeFi へのムーブメントを大きく前進させることができます。
 
-<br>
+
 
 成長する FinTech
 ============
@@ -120,7 +120,7 @@ FinTech 業界の状況に関するいくつかの数字を見てみることに
 
 ここがまさに、MAPS が従来の FinTech ユーザを DeFi に移行させることで貢献できるポイントになります。
 
-<br>
+
 
 MAPS.me
 =======
@@ -162,7 +162,7 @@ Maps.me のエコシステムは [MAPS というユーティリティートー�
 
 <img alt="" class="fe en ej kl w" src="https://miro.medium.com/max/602/1*ZZw_esICxLMEwuBbNs-0Fw.png" width="602" height="311"/>
 
-<br>
+
 
 潜在的なリスク
 =======
@@ -171,7 +171,7 @@ Maps.me のエコシステムは [MAPS というユーティリティートー�
 *   ブロックチェーン導入時に、既存のユーザが投資機会を見逃した場合、DeFiへの移行が進まないかもしれません。
 *   既存の巨大企業や Revolut, Starling Bank, Robinhood といった新興FinTechスタートアップとの厳しい競争にさらされる可能性があります。
 
-<br>
+
 
 **ビジネスチャンスと将来への展望**
 ===================

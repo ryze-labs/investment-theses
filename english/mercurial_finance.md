@@ -2,28 +2,27 @@
 
 Not financial advice.
 
-<br>
 
 ## Introduction
 
 Stablecoins are an essential component of any decentralized finance (DeFi) ecosystem. The exponential increase of stablecoin holdings from $7Bn in June 2020 to $65Bn in May 2021 is clear evidence of widespread adoption. Stablecoins are the most intuitive assets for retail investors to denominate investments; and are also the dominant fiat on/off ramp medium of exchange. On centralized exchanges, stablecoins are the most common asset that other tokens are paired against. In addition, many investors are drawn into DeFi by the high beta-neutral yields offered by stablecoin farms. These factors have solidified stablecoins’ status as an indispensable part of DeFi.
 
-<img src="https://miro.medium.com/max/3000/1*wAFFInMpP5zxZ324vQDZvg.png" alt="1" width="800px">
+<img src="https://miro.medium.com/max/3000/1*wAFFInMpP5zxZ324vQDZvg.png" alt="1" width="800px" />
 
 >Growing stablecoin supply. Source: Dune Analytics
 
 Monthly decentralized exchange (DEX) volumes for the USDT/USDC trading pair has increased multifold over the past year — growing from $300MM in June 2020 to a staggering $8Bn in May 2021.
 
-<img src="https://miro.medium.com/max/3000/1*k5ozvcnDIMXRlXo5RV8w-A.png" alt="2" width="800px">
+<img src="https://miro.medium.com/max/3000/1*k5ozvcnDIMXRlXo5RV8w-A.png" alt="2" width="800px" />
 
 >Growing DEX volume. Source: Dune Analytics
 
 Furthermore, the daily transaction count for USDC and DAI have multiplied by a factor of eight since Jan 2020. Clearly, stablecoins are widely used across all areas of DeFi.
 
-<img src="https://miro.medium.com/max/3000/1*QpPYptZIZ83piVR9WkR6Zw.png" alt="3" width="800px">
+<img src="https://miro.medium.com/max/3000/1*QpPYptZIZ83piVR9WkR6Zw.png" alt="3" width="800px" />
 
 >Skyrocketing growth of stablecoin transactions. Source: Coinmetrics
-<br>
+
 
 ## Current Problems
 
@@ -50,7 +49,7 @@ Specifically, for AMMs, yields are directly correlated to the trading volume of 
 
 With DeFi continuously growing, these lenders must also actively keep up-to-date with new yield farms or strategies in order to maximize their yield. This might not be feasible for passive investors who might not have the time or expertise to execute such strategies efficiently.
 
-<br>
+
 
 ## Mercurial Finance
 
@@ -59,7 +58,7 @@ Mercurial Finance (<a href='https://www.mercurial.finance/' target='_blank'>http
 
 As the DeFi ecosystem on Solana rapidly expands, the demand for stablecoin minting, swapping and farming will only increase. We will dive into why we think Mercurial Finance is uniquely positioned to capture the lion’s share of this demand — with its winning combination of innovative technology, vision, brand and strategic partners.
 
-<br>
+
 
 ## The Solution
 
@@ -74,16 +73,16 @@ Mercurial Finance seeks to offer a holistic solution to both parties on the Sola
 - High market volatility: Higher fees, reducing IL and capturing higher profits
 - Low market volatility: Lower fees to encourage trading
 
-<br>
+
 
 ## Benefits for traders
 
 For traders, these innovations effectively solve their aforementioned problems by improving the utilization of the liquidity available, while simultaneously offering traders the benefit of 100x better slippage when swapping stablecoins versus traditional swaps. With both deep liquidity and low slippage, traders will be much more likely to utilize the Mercurial platform as their preferred swapping platform, thus driving the fees earned by liquidity providers.
 
-<img src="https://miro.medium.com/max/3000/1*pNlx0M08G4mj-qaRQYTKWw.png" alt="4" width="800px">
+<img src="https://miro.medium.com/max/3000/1*pNlx0M08G4mj-qaRQYTKWw.png" alt="4" width="800px" />
 
 >Capital efficient swaps with dynamic fees. Source: Mercurial Finance
-<br>
+
 
 ## Benefits for lenders
 
@@ -102,19 +101,19 @@ After depositing their assets, lenders will receive Liquidity Provider (LP) toke
 - Reinvestment in other Mercurial Vaults
 - Used as collateral on other lending platforms
 
-<img src="https://miro.medium.com/max/3000/1*foXFygURNNdFwBwsk0lBNQ.png" alt="5" width="800px">
+<img src="https://miro.medium.com/max/3000/1*foXFygURNNdFwBwsk0lBNQ.png" alt="5" width="800px" />
 
 >Key aspects in a Mercurial vault. Source: <a class="ds kx" href="https://www.mercurial.finance/Mercurial-Lite-Paper-v1.pdf" rel="noopener nofollow">https://www.mercurial.finance/Mercurial-Lite-Paper-v1.pdf</a>
-<br>
+
 
 ## Seamless UX/UI
 
 Mercurial Finance understands that a highly usable and seamless interface is critical for catalyzing the migration from centralized to decentralized platforms. As such, providing an intuitive interface and comfortable user experience are key priorities to Mercurial. The team is continually working to refine their UX/UI and develop design patterns that will minimize friction.
 
-<img src="https://miro.medium.com/max/3000/1*UOZheSyDw-Tqy9oCqAKRcw.png" alt="6" width="400px">
+<img src="https://miro.medium.com/max/3000/1*UOZheSyDw-Tqy9oCqAKRcw.png" alt="6" width="400px" />
 
 >Clean Mercurial UI
-<br>
+
 
 ## MER Token
 
@@ -127,13 +126,13 @@ The native MER token is designed to have a wide range of mechanism that will acc
 
 In addition, the MER token will be intrinsically linked to the governance of the Mercurial ecosystem. MER token holders will be able to vote on key parameters such as swap fees, vault commissions and yield strategies.
 
-<br>
+
 
 ## Risks & Threats
 
 **Competition**: There are several stablecoin swap protocols being developed on the Solana ecosystem. Both borrowers and lenders ultimately will choose the platform that offers the greatest benefit to them, be it in terms of functionality, yield, fees or slippage. Mercurial Finance must offer the best solution on all fronts in order to firmly solidify its position as the preferred platform.
 
-<br>
+
 
 ## Future Opportunities
 
@@ -142,7 +141,7 @@ In addition, the MER token will be intrinsically linked to the governance of the
 
 **Beyond stablecoins:** Mercurial aims to extend their dynamic vaults to incorporate any token pair. They intend to implement new pricing models to optimize for non 1:1 token sets. This will expand Mercurial’s offering to a much wider total addressable market.
 
-<br>
+
 
 ## Conclusion
 
