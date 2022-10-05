@@ -110,19 +110,19 @@ Cope. مبدئيًا، سيتم توزيع 4000 وحدة Cope بشكل تدري�
 
 | ![](images/cope/cope-3.png) |
 |:--:|
-| [https://twitter.com/scupytrooples/status/1284847048559230982؟s=20](https://twitter.com/scupytrooples/status/1284847048559230982%D8%9Fs=20) |
+| [المصدر](https://twitter.com/scupytrooples/status/1284847048559230982) |
 
 -   الشراء عند أدنى مستوى سعر لتداول الرمز:
 
-![](images/cope/cope-4.png)
-
-<https://twitter.com/tayvano_/status/1379879536377036803?s=20>
+| ![](images/cope/cope-4.png) |
+|:--:|
+| [المصدر](https://twitter.com/tayvano_/status/1379879536377036803) |
 
 -   تنتقد التغريدة المشاريع التي تنتهي قيمتها بالتدهور:
 
 | ![](images/cope/cope-5.png) |
 |:--:|
-| [https://twitter.com/novogratz/status/948901960132038656؟s=20](https://twitter.com/novogratz/status/948901960132038656%D8%9Fs=20) |
+| [المصدر](https://twitter.com/novogratz/status/948901960132038656) |
 
 ## تقليل مجموع نقاط  Cope
 
