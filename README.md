@@ -10,6 +10,7 @@ All investment strategies and investments involve risk of loss. Nothing containe
 
 To view, explore the folders above or click the links below for theses in:
 
-- [English](https://github.com/sinoglobalcap/investment-theses/tree/main/english)
-- [中文](https://github.com/sinoglobalcap/investment-theses/tree/main/%E4%B8%AD%E6%96%87)
-- [日本語](https://github.com/sinoglobalcap/investment-theses/tree/main/%E6%97%A5%E6%9C%AC%E8%AA%9E)
+- [English](english/)
+- [中文](中文/)
+- [日本語](日本語/)
+- [العربية](بالعربي/)
