@@ -97,4 +97,4 @@ Bonfida 的原生通证 FIDA 将完全整合到平台中，Bonfida 对在该平�
 FIDA IEO 将在 FTX 和 Bitmax 平台进行。Bonfida 也将成为首个在 Serum 进行 ISO 的项目。实际上，上述只是 Bonfida 的初始功能。由 David Ratiney 带领的 Bonfida 团队还有更多远大计划。我们充分相信团队能够为平台带来更多创新功能，为 DEX 带来 CEX 的全功能体验，成为用户在 Serum 上进行交易的首选平台。敬请关注 Bonfida 的推特： <a href='https://twitter.com/bonfida' target='_blank'>https://twitter.com/bonfida</a>。
 
 
-研究人员：<a href='https://twitter.com/dermotmcg' target='_blank'>@dermotmcg</a>, <a href='https://twitter.com/OmniscientAsian' target='_blank'>@OmniscientAsian</a>, <a href='https://twitter.com/ianw888’ target='_blank'>@ianw888</a>
+研究人员：<a href='https://twitter.com/dermotmcg' target='_blank'>@dermotmcg</a>, <a href='https://twitter.com/OmniscientAsian' target='_blank'>@OmniscientAsian</a>, <a href='https://twitter.com/ianw888' target='_blank'>@ianw888</a>
