@@ -94,7 +94,7 @@ Solana 在交易成本与验证方面处于领先地位，非常适合寻求可�
 
 **高效、开发周期以用户为导向**
 
-Jet 团队致力于开源协作和用户反馈。团队最初基于 Solana 代币借贷计划 ([https://github.com/solana-labs/solana-program-library/tree/master/token-lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending)，在认识到开放源代码虽重要但需要加速迭代开发周期，而不是简单地将更改推向现有存储库。因此，Jet 团队完全重构了 Anchor 的借贷机制。更多信息请访问他们的 Github。[https://github.com/jet-lab](https://github.com/jet-lab/).
+Jet 团队致力于开源协作和用户反馈。团队最初基于 Solana 代币借贷计划 ([https://github.com/solana-labs/solana-program-library/tree/master/token-lending](https://github.com/solana-labs/solana-program-library/tree/master/token-lending))，在认识到开放源代码虽重要但需要加速迭代开发周期，而不是简单地将更改推向现有存储库。因此，Jet 团队完全重构了 Anchor 的借贷机制。更多信息请访问他们的 Github。[https://github.com/jet-lab](https://github.com/jet-lab/).
 
 **功能和路线图**
 
@@ -213,7 +213,7 @@ Copilot 一旦发现任何错误便会介入：
 
 由 Will Barnes 和 James Moreau 共同创建，Will Barnes 是一位天赋异禀的区块链开发人员，在 MakerDAO 和 Consensus 领域拥有丰富的经验，James Moreau 是一位社区专家，在 Blockdaemon 和 ConsenSys 方面拥有丰富的经验。他们掌握丰富的借贷经验、区块链技术和社区管理经验，有望在 Solana 上创建一款社区优先、功能强大的借贷协议。
 
-****治理优先的方法**
+**治理优先的方法**
 =============================
 
 借鉴 MakerDAO 的运营经验，Jet 团队从一开始就针对所有人制定了协议。Jet 包括一个治理“终端”，任何人只要获得足够票数的都可以更改并完成协议的升级。该终端的端点会进行着重保护，例如使用定时锁和早期采用者代币协议来打击传播不良信息的人，以及增加发布时提议的投票法定人数。这些措施都将随着时间的推移而放宽，因为它证明了协议经过了实战考验，并且足以承担“治理攻击”(governance attack) 风险。
