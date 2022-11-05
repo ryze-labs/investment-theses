@@ -211,7 +211,7 @@ We believe that Co-Pilot has the potential to be a revolutionary breakthrough in
 **Team**
 ========
 
-Founded by Will Barnes, a talented blockchain developer with extensive experience in the space including at MakerDAO and Consensus, and James Moreau a community expert with experience at Blockdaemon and ConsenSys. They have the experience in lending, the technical chops in blockchain and the experience in community management to make a community first, super-powered lending protocol on Solana.
+Founded by Wil Barnes, a talented blockchain developer with extensive experience in the space including at MakerDAO and Consensus, and James Moreau a community expert with experience at Blockdaemon and ConsenSys. They have the experience in lending, the technical chops in blockchain and the experience in community management to make a community first, super-powered lending protocol on Solana.
 
 **Governance first approach**
 =============================
