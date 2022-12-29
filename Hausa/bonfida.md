@@ -68,7 +68,6 @@ Bonfida yana da alamar asali, FIDA, wanda za a haɗa shi gabaɗaya a cikin danda
 - Solible: musayar NFT da aka gina a saman Serum da Solana. Tawagar Bonfida sun ƙirƙira kuma sun karɓi NFTs tare da ƙirƙirar Solible (https://solible.com), yana ba da damar kasuwancin NFTs da aka raba.
 
 <img src="https://miro.medium.com/max/3000/1*c7WIIVK7wiQV_4km7-tOUA.jpeg" alt="5" width="800px">
-
 > Bitcoin tram NFT na siyarwa akan Solible
 
 
