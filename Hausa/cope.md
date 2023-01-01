@@ -1,3 +1,4 @@
+# Dalili da yasa muka saka hannun jari a Cope
 
 Ba shawara na kudi ba.
 
