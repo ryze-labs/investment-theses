@@ -4,8 +4,6 @@ Why we invested in Impossible Finance
 
 Not financial advice.
 
-<br>
-
 
 **Introduction**
 ================
