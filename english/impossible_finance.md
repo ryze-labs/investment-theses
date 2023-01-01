@@ -101,8 +101,8 @@ Providing accessibility to the various chains that exist in the crypto space tod
 
 A key part of the Impossible Ecosystem, Impossible Finance would be able to provide liquidity for initial launch sales and secondary markets for any asset through Impossible Swap. Providing an avenue for price discovery post public-sale is crucial for projects to raise awareness and also to decentralize holdings by distributing tokens to more users. Providing liquidity directly on the platform is more convenient and easily accessible to long term supporters. Impossible Swap features innovations to improve capital efficiency as well as gas efficiency resulting in better pricing and less slippage. For more on the technical details, check out this medium [post](https://medium.com/impossiblefinance/the-impossible-v2-swap-4441b054ad17).
 
-**Smart Launches / SSIDO  
-**Impossible creates targeted launchpads by creating sector queues for stakers to signal their affinity for certain projects that fit their thesis, and then earn fair allocations into project launches via the **IF Decentralized Incubator Access Tokens** ([**IDIA**](https://gateway.pinata.cloud/ipfs/QmWdoJWPDNgsmwCarij5k5CLyknsXmKX5wRV1LMQ3oqSuN/Impossible%20Finance%20IDIA%20Whitepaper.pdf)).
+**Smart Launches / SSIDO**
+Impossible creates targeted launchpads by creating sector queues for stakers to signal their affinity for certain projects that fit their thesis, and then earn fair allocations into project launches via the **IF Decentralized Incubator Access Tokens** ([**IDIA**](https://gateway.pinata.cloud/ipfs/QmWdoJWPDNgsmwCarij5k5CLyknsXmKX5wRV1LMQ3oqSuN/Impossible%20Finance%20IDIA%20Whitepaper.pdf)).
 
 **IDIAs** are liquid instruments that give investors priority access to deal flow and allocation within a specific sector. To discourage sector hopping, there could be locks or fees incorporated in the future. This matchmaking also deters “mercenary investors” that look to speculate and flip, instead prioritizing long-term investors for access into highly sought-after project launches. This mechanism seeks to reduce speculators and instead foster a more loyal and long-term oriented user base.
 
