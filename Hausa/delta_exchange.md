@@ -1,3 +1,5 @@
+# Dalili Da Yasa Muka Saka Hannun Jari A Delta Exchange
+
 Ba shawara na kudi ba.
 
 ## **Gabatarwa**
